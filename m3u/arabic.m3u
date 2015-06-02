@@ -1,0 +1,1812 @@
+﻿
+    #EXTINF:-1, Bein1HD
+    http://37.59.51.173:8080/Bein1_HD/index.m3u8
+    #EXTINF:-1, Bein2HD
+    http://37.59.51.173:8080/Bein2_HD/index.m3u8
+    #EXTINF:-1, Bein3HD
+    http://37.59.51.173:8080/Bein3_HD/index.m3u8
+    #EXTINF:-1, Bein4HD
+    http://37.59.51.173:8080/Bein4_HD/index.m3u8
+    #EXTINF:-1, Bein5HD
+    http://37.59.51.173:8080/Bein5_HD/index.m3u8
+    #EXTINF:-1, Bein6HD
+    http://37.59.51.173:8080/Bein6_HD/index.m3u8
+    #EXTINF:-1, Bein7HD
+    http://37.59.51.173:8080/Bein7_HD/index.m3u8
+    #EXTINF:-1, Bein8HD
+    http://37.59.51.173:8080/Bein8_HD/index.m3u8
+    #EXTINF:-1, Bein9HD
+    http://37.59.51.173:8080/Bein9_HD/index.m3u8
+    #EXTINF:-1, Bein10HD
+    http://37.59.51.173:8080/Bein10_HD/index.m3u8
+    #EXTINF:-1, Bein11HD
+    http://37.59.51.173:8080/Bein11_HD/index.m3u8
+    #EXTINF:-1, Bein12HD
+    http://37.59.51.173:8080/Bein12_HD/index.m3u8
+    #EXTINF:-1, Bein13HD
+    http://37.59.51.173:8080/Bein13_HD/index.m3u8
+    #EXTINF:-1, Bein14HD
+    http://37.59.51.173:8080/Bein14_HD/index.m3u8
+    #EXTINF:-1, Bein15HD
+    http://37.59.51.173:8080/Bein15_HD/index.m3u8
+    #EXTINF:-1, Bein Sports 1 HD
+    rtmp://karimos-sat.com:1935/static/Bein1_HD
+    #EXTINF:-1, Bein Sports 2 HD
+    rtmp://karimos-sat.com:1935/static/Bein2_HD
+    #EXTINF:-1, Bein Sports 3 HD
+    rtmp://karimos-sat.com:1935/static/Bein3_HD
+    #EXTINF:-1, Bein Sports 4 HD
+    rtmp://karimos-sat.com:1935/static/Bein4_HD
+    #EXTINF:-1, Bein Sports 5_HD
+    rtmp://karimos-sat.com:1935/static/Bein5_HD
+    #EXTINF:-1, Bein Sports 6_HD
+    rtmp://karimos-sat.com:1935/static/Bein6_HD
+    #EXTINF:-1, Bein Sports 7_HD
+    rtmp://karimos-sat.com:1935/static/Bein7_HD
+    #EXTINF:-1, Bein Sports 8_HD
+    rtmp://karimos-sat.com:1935/static/Bein8_HD
+    #EXTINF:-1, Bein Sports 9_HD
+    rtmp://karimos-sat.com:1935/static/Bein9_HD
+    #EXTINF:-1, Bein Sports 10_HD
+    rtmp://karimos-sat.com:1935/static/Bein10_HD
+    #EXTINF:-1, Bein Sports 11_HD
+    rtmp://karimos-sat.com:1935/static/Bein11_HD
+    #EXTINF:-1, Bein Sports 12_HD
+    rtmp://karimos-sat.com:1935/static/Bein12_HD
+    #EXTINF:-1, Bein Sports 13_HD
+    rtmp://karimos-sat.com:1935/static/Bein13_HD
+    #EXTINF:-1, Bein Sports 14_HD
+    rtmp://karimos-sat.com:1935/static/Bein14_HD
+    #EXTINF:-1, Bein Sports 15_HD
+    rtmp://karimos-sat.com:1935/static/Bein15_HD
+    #EXTINF:0,BEIN_SPORT_1_HD
+    http://ouanani.890m.com/001.m3u
+    #EXTINF:0,BEIN_SPORT_2_HD
+    http://ouanani.890m.com/002.m3u
+    #EXTINF:0,BEIN_SPORT_3_HD
+    http://ouanani.890m.com/003.m3u
+    #EXTINF:0,BEIN_SPORT_4_HD
+    http://ouanani.890m.com/004.m3u
+    #EXTINF:0,BEIN_SPORT_5_HD
+    http://ouanani.890m.com/005.m3u
+    #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
+    http://www.youtube.com/user/hmemar22
+    #EXTINF:-1,MBC 1
+    http://8.21.48.19:7777/MBC1_HD.m3u8
+    #EXTINF:-1,MBC 2
+    http://8.21.48.19:7777/MBC2_HD.m3u8
+    #EXTINF:-1,MBC 3
+    http://8.21.48.19:7777/MBC3_HD.m3u8
+    #EXTINF:-1,MBC 4
+    http://8.21.48.19:7777/MBC4_HD.m3u8
+    #EXTINF:-1,MBC Drama
+    http://8.21.48.19:7777/MBCDrama_HD.m3u8
+    #EXTINF:-1,MBC Action
+    http://8.21.48.19:7777/MBCAction_HD.m3u8
+    #EXTINF:-1,MBC MAX
+    http://8.21.48.19:7777/MBCMax_HD.m3u8
+    #EXTINF:-1,MBC Masr
+    http://8.21.48.19:7777/MBCMaser_HD.m3u8
+    #EXTINF:-1,Rotana Aflam
+    http://8.21.48.19:7777/RotanaAflam_HD.m3u8
+    #EXTINF:-1,Rotana Clip
+    http://8.21.48.19:7777/RotanaClip_HD.m3u8
+    #EXTINF:-1,Rotana Khaligi
+    http://8.21.48.19:7777/RotanaKhalijiah_HD.m3u8
+    #EXTINF:-1,Rotana Music
+    http://8.21.48.19:7777/RotanaMusic_HD.m3u8
+    #EXTINF:-1,Rotana Masria
+    http://8.21.48.19:7777/RotanaMasriya_HD.m3u8
+    #EXTINF:-1,Rotana Classic
+    http://8.21.48.19:7777/RotanaZaman_HD.m3u8
+    #EXTM3U
+    #EXTINF:-1, [COLOR yellow]Updated testing [/COLOR]  
+    http://www.youtube.com/user/hmemar22
+    #EXTINF:-1, [COLOR green] --My Test Ground--[/COLOR]  
+    http://www.youtube.com/user/hmemar22
+    #EXTINF:-1,2M
+    http://8.21.48.19:7777/M2Morocco_Med.m3u8
+    #EXTINF:-1,2M
+    http://8.21.48.20:7777/M2Morocco_HD.m3u8
+    #EXTINF:-1,2M
+    http://8.21.48.26:7777/M2Morocco.m3u8
+    EXTINF:-1,beINSports
+    http://8.21.48.19:7777/beINSports_Med.m3u8
+    #EXTINF:-1,beINSports
+    http://8.21.48.20:7777/beINSports_HD.m3u8
+    #EXTINF:-1,BEIN-US
+    http://8.21.48.19:7777/beINSportsNews_Med.m3u8
+    #EXTINF:-1,4Shbab
+    http://8.21.48.20:7777/4Shbab_HD.m3u8
+    #EXTINF:-1,7Stars
+    http://8.21.48.19:7777/7Stars_Med.m3u8
+    #EXTINF:-1,7Stars
+    http://8.21.48.20:7777/7Stars_HD.m3u8
+    #EXTINF:-1,A1-Jordan
+    http://8.21.48.20:7777/A1Jordan_HD.m3u8
+    #EXTINF:-1,AAAMusic
+    http://8.21.48.20:7777/AAAMusic_HD.m3u8
+    #EXTINF:-1,ABN
+    http://8.21.48.19:7777/ABN_Med.m3u8
+    #EXTINF:-1,ABN
+    http://8.21.48.20:7777/ABN_HD.m3u8
+    #EXTINF:-1,Abu-Dhabi
+    http://8.21.48.19:7777/ADAlOula_Med.m3u8
+    #EXTINF:-1,Abu-Dhabi
+    http://8.21.48.20:7777/ADAlOula_HD.m3u8
+    #EXTINF:-1,Abu-Dhabi-Drama
+    http://8.21.48.20:7777/ADDrama_HD.m3u8
+    #EXTINF:-1,Abu-Dhabi-Emirates
+    http://8.21.48.20:7777/ADEmirates_HD.m3u8
+    #EXTINF:-1,Abu-Dhabi-Sports-1
+    http://8.21.48.19:7777/ADSport_Med.m3u8
+    #EXTINF:-1,Abu-Dhabi-Sports-1
+    http://8.21.48.20:7777/ADSport_HD.m3u8
+    #EXTINF:-1,Aden
+    http://8.21.48.19:7777/Aden_Med.m3u8
+    #EXTINF:-1,Aden
+    http://8.21.48.20:7777/Aden_HD.m3u8
+    #EXTINF:-1,Aghanina
+    http://8.21.48.19:7777/Aghanina_Med.m3u8
+    #EXTINF:-1,Aghanina
+    http://8.21.48.20:7777/Aghanina_HD.m3u8
+    #EXTINF:-1,Aghapy
+    http://8.21.48.19:7777/Aghapy_Med.m3u8
+    #EXTINF:-1,Aghapy
+    http://8.21.48.20:7777/Aghapy_HD.m3u8
+    #EXTINF:-1,Ajman
+    http://8.21.48.19:7777/Ajman_Med.m3u8
+    #EXTINF:-1,Ajman
+    http://8.21.48.20:7777/Ajman_HD.m3u8
+    #EXTINF:-1,Ajyal
+    http://8.21.48.19:7777/AjyalTV_Med.m3u8
+    #EXTINF:-1,Ajyal
+    http://8.21.48.20:7777/AjyalTV_HD.m3u8
+    #EXTINF:-1,Al-Adala
+    http://8.21.48.19:7777/AlAdala_Med.m3u8
+    #EXTINF:-1,Al-Adala
+    http://8.21.48.20:7777/AlAdala_HD.m3u8
+    #EXTINF:-1,AL-AHLY
+    http://8.21.48.19:7777/AlAhlyTV_Med.m3u8
+    #EXTINF:-1,AL-AHLY
+    http://8.21.48.20:7777/AlAhlyTV_HD.m3u8
+    #EXTINF:-1,Al-Amaken-Drama
+    http://8.21.48.19:7777/AlAmakenDrama_Med.m3u8
+    #EXTINF:-1,Al-Amaken-Drama
+    http://8.21.48.20:7777/AlAmakenDrama_HD.m3u8
+    #EXTINF:-1,Alan
+    http://8.21.48.20:7777/AlAan_HD.m3u8
+    #EXTINF:-1,Al-Anwar
+    http://8.21.48.19:7777/AlAnwar_Med.m3u8
+    #EXTINF:-1,Al-Anwar
+    http://8.21.48.20:7777/AlAnwar_HD.m3u8
+    #EXTINF:-1,Alaqsa
+    http://8.21.48.19:7777/AqsaSatCh_Med.m3u8
+    #EXTINF:-1,Alaqsa
+    http://8.21.48.20:7777/AqsaSatCh_HD.m3u8
+    #EXTINF:-1,Alarabiya
+    http://8.21.48.20:7777/AlArabiya_HD.m3u8
+    #EXTINF:-1,Alarabiya-Ahdas
+    http://8.21.48.20:7777/AlArabiyaHadath_HD.m3u8
+    #EXTINF:-1,AlBabeleyia
+    http://8.21.48.20:7777/AlBabeleyia_HD.m3u8
+    #EXTINF:-1,Al-Baghdadia
+    http://8.21.48.19:7777/AlBaghdadia_Med.m3u8
+    #EXTINF:-1,Al-Baghdadia
+    http://8.21.48.20:7777/AlBaghdadia_HD.m3u8
+    #EXTINF:-1,Albait-Baitak-Cinema
+    http://8.21.48.20:7777/AlbaitBaitakCinema_HD.m3u8
+    #EXTINF:-1,AlDafra
+    http://8.21.48.20:7777/AlDafra_HD.m3u8
+    #EXTINF:-1,Aldiyar
+    http://8.21.48.19:7777/AldiyarSat_Med.m3u8
+    #EXTINF:-1,Aldiyar
+    http://8.21.48.20:7777/AldiyarSat_HD.m3u8
+    #EXTINF:-1,Al-Eman
+    http://8.21.48.19:7777/AlEman_Med.m3u8
+    #EXTINF:-1,Al-Eman
+    http://8.21.48.20:7777/AlEman_HD.m3u8
+    #EXTINF:-1,Al-Eqtisadiyah
+    http://8.21.48.19:7777/AlEqtisadiyah_Med.m3u8
+    #EXTINF:-1,Al-Eqtisadiyah
+    http://8.21.48.20:7777/AlEqtisadiyah_HD.m3u8
+    #EXTINF:-1,Al-Fayhaa
+    http://8.21.48.19:7777/AlFayhaa_Med.m3u8
+    #EXTINF:-1,Al-Fayhaa
+    http://8.21.48.20:7777/AlFayhaa_HD.m3u8
+    #EXTINF:-1,Al-Forat
+    http://8.21.48.19:7777/AlForat_Med.m3u8
+    #EXTINF:-1,Al-Forat
+    http://8.21.48.20:7777/AlForat_HD.m3u8
+    #EXTINF:-1,AlGeria
+    http://8.21.48.19:7777/CanalAlgerie_Med.m3u8
+    #EXTINF:-1,AlGeria
+    http://8.21.48.20:7777/CanalAlgerie_HD.m3u8
+    #EXTINF:-1,Algeria-3
+    http://8.21.48.19:7777/Thalitha_Med.m3u8
+    #EXTINF:-1,Algeria-3
+    http://8.21.48.20:7777/Thalitha_HD.m3u8
+    #EXTINF:-1,Algeria-3
+    http://8.21.48.26:7777/Thalitha.m3u8
+    #EXTINF:-1,Algharam-Cinema
+    http://8.21.48.20:7777/AlTet_HD.m3u8
+    #EXTINF:-1,Al-Haneen-Music
+    http://8.21.48.20:7777/MusicAlhanen_HD.m3u8
+    #EXTINF:-1,Al-Haqeeqa
+    http://8.21.48.19:7777/AlHaqeeqa_Med.m3u8
+    #EXTINF:-1,Al-Haqeeqa
+    http://8.21.48.20:7777/AlHaqeeqa_HD.m3u8
+    #EXTINF:-1,ALhayat
+    http://8.21.48.20:7777/ALhayat_HD.m3u8
+    #EXTINF:-1,Alhayat-1
+    http://8.21.48.20:7777/Hayat_HD.m3u8
+    #EXTINF:-1,Alhayat2
+    http://8.21.48.20:7777/Alhayat2_HD.m3u8
+    #EXTINF:-1,Alhayat-Series
+    http://8.21.48.20:7777/AlHayatMousalsalat_HD.m3u8
+    #EXTINF:-1,Al-Hiwar
+    http://8.21.48.19:7777/AlHiwar_Med.m3u8
+    #EXTINF:-1,Al-Hiwar
+    http://8.21.48.20:7777/AlHiwar_HD.m3u8
+    #EXTINF:-1,Al-Hiwar-Ettounsi
+    http://8.21.48.20:7777/AlHiwarTunis_HD.m3u8
+    #EXTINF:-1,Al-hurra-Iraq
+    http://8.21.48.19:7777/AlhurraIraq_Med.m3u8
+    #EXTINF:-1,Al-hurra-Iraq
+    http://8.21.48.20:7777/AlhurraIraq_HD.m3u8
+    #EXTINF:-1,Al-Ikhbaria
+    http://8.21.48.19:7777/AlEkhbariya_Med.m3u8
+    #EXTINF:-1,Al-Ikhbaria
+    http://8.21.48.20:7777/AlEkhbariya_HD.m3u8
+    #EXTINF:-1,Al-Iraqiya-Documentary
+    http://8.21.48.19:7777/AlIraqAlTarbawiyah_Med.m3u8
+    #EXTINF:-1,Al-Iraqiya-Documentary
+    http://8.21.48.20:7777/AlIraqAlTarbawiyah_HD.m3u8
+    #EXTINF:-1,Aliraqia-2
+    http://8.21.48.19:7777/AlIraqia2_Med.m3u8
+    #EXTINF:-1,Aliraqia-2
+    http://8.21.48.20:7777/AlIraqia2_HD.m3u8
+    #EXTINF:-1,Aliraqiya
+    http://8.21.48.19:7777/AlIraqiya_Med.m3u8
+    #EXTINF:-1,Aliraqiya
+    http://8.21.48.20:7777/AlIraqiya_HD.m3u8
+    #EXTINF:-1,Aljadeed
+    http://8.21.48.19:7777/AlJadeed_Med.m3u8
+    #EXTINF:-1,Aljadeed
+    http://8.21.48.20:7777/AlJadeed_HD.m3u8
+    #EXTINF:-1,AlJazeera
+    http://8.21.48.19:7777/AlJazeera_Med.m3u8
+    #EXTINF:-1,AlJazeera
+    http://8.21.48.20:7777/AlJazeera_HD.m3u8
+    #EXTINF:-1,Aljazeera-Children
+    http://8.21.48.20:7777/AlJazeeraKid_HD.m3u8
+    #EXTINF:-1,Aljazeera-Doc
+    http://8.21.48.20:7777/AlJazeeraDocument_HD.m3u8
+    #EXTINF:-1,Aljazeera-En
+    http://8.21.48.19:7777/AlJazeeraEnglish_Med.m3u8
+    #EXTINF:-1,Aljazeera-En
+    http://8.21.48.20:7777/AlJazeeraEnglish_HD.m3u8
+    #EXTINF:-1,Aljazeera-Mubasher
+    http://8.21.48.20:7777/AlJazeeraLive_HD.m3u8
+    #EXTINF:-1,Aljazeera-Mubasher-Masr
+    http://8.21.48.20:7777/JSCLiveMisr_HD.m3u8
+    #EXTINF:-1,Aljazeera-US
+    http://8.21.48.20:7777/AlJazeeraInt_HD.m3u8
+    #EXTINF:-1,AlKahera
+    http://8.21.48.20:7777/AlKahera_HD.m3u8
+    #EXTINF:-1,Alkarama_Christian
+    http://8.21.48.20:7777/AlKarma_HD.m3u8
+    #EXTINF:-1,alkass
+    http://8.21.48.19:7777/AlDawriAlKassSport_Med.m3u8
+    #EXTINF:-1,alkass
+    http://8.21.48.20:7777/AlDawriAlKassSport_HD.m3u8
+    #EXTINF:-1,Al-Kout
+    http://8.21.48.19:7777/AlKout_Med.m3u8
+    #EXTINF:-1,Al-Kout
+    http://8.21.48.20:7777/AlKout_HD.m3u8
+    #EXTINF:-1,Al-Lubnania
+    http://8.21.48.20:7777/AlLubnania_HD.m3u8
+    #EXTINF:-1,Al-Maghribia
+    http://8.21.48.19:7777/AlMaghribia_Med.m3u8
+    #EXTINF:-1,Al-Maghribia
+    http://8.21.48.20:7777/AlMaghribia_HD.m3u8
+    #EXTINF:-1,Al-Majd
+    http://8.21.48.20:7777/AlmajdSpace_HD.m3u8
+    #EXTINF:-1,AlMalakot
+    http://8.21.48.19:7777/AlMalakot_Med.m3u8
+    #EXTINF:-1,AlMalakot
+    http://8.21.48.20:7777/AlMalakot_HD.m3u8
+    #EXTINF:-1,Al-Manar
+    http://8.21.48.19:7777/AlManar_Med.m3u8
+    #EXTINF:-1,Al-Manar
+    http://8.21.48.20:7777/AlManar_HD.m3u8
+    #EXTINF:-1,Almas
+    http://8.21.48.19:7777/AlMas_Med.m3u8
+    #EXTINF:-1,Almas
+    http://8.21.48.20:7777/AlMas_HD.m3u8
+    #EXTINF:-1,Al-Masar
+    http://8.21.48.19:7777/AlMasar_Med.m3u8
+    #EXTINF:-1,Al-Masar
+    http://8.21.48.20:7777/AlMasar_HD.m3u8
+    #EXTINF:-1,AlMasrawia
+    http://8.21.48.20:7777/AlMasrawia_HD.m3u8
+    #EXTINF:-1,Al-Masriyah
+    http://8.21.48.19:7777/AlMasriyah_Med.m3u8
+    #EXTINF:-1,Al-Masriyah
+    http://8.21.48.20:7777/AlMasriyah_HD.m3u8
+    #EXTINF:-1,Al-mayaden
+    http://8.21.48.20:7777/AlMayadeen_HD.m3u8
+    #EXTINF:-1,Al-Moustakilla
+    http://8.21.48.19:7777/AlMustakila_Med.m3u8
+    #EXTINF:-1,Al-Moustakilla
+    http://8.21.48.20:7777/AlMustakila_HD.m3u8
+    #EXTINF:-1,Al-Nahar
+    http://8.21.48.20:7777/AlNahar_HD.m3u8
+    #EXTINF:-1,Al-Nahar-2
+    http://8.21.48.20:7777/AlNaharMovies_HD.m3u8
+    #EXTINF:-1,Alnahar-Alyoum
+    http://8.21.48.20:7777/AlNahar2_HD.m3u8
+    #EXTINF:-1,Al-Nahar-Drama
+    http://8.21.48.20:7777/AlNaharDrama_HD.m3u8
+    #EXTINF:-1,Al-Nahar-Sport
+    http://8.21.48.20:7777/AlNaharSport_HD.m3u8
+    #EXTINF:-1,Al-Ordonia
+    http://8.21.48.19:7777/AlOrdoni_Med.m3u8
+    #EXTINF:-1,Al-Ordonia
+    http://8.21.48.20:7777/AlOrdoni_HD.m3u8
+    #EXTINF:-1,Al-oula-Maroc
+    http://8.21.48.19:7777/AlAoulaEurope_Med.m3u8
+    #EXTINF:-1,Al-oula-Maroc
+    http://8.21.48.20:7777/AlAoulaEurope_HD.m3u8
+    #EXTINF:-1,AlQahera-W-Elnas
+    http://8.21.48.20:7777/AlKaheraWalNas_HD.m3u8
+    #EXTINF:-1,AlQahera-W-Elnas-2
+    http://8.21.48.20:7777/AlKaheraWalNas2_HD.m3u8
+    #EXTINF:-1,Alqithara
+    http://8.21.48.20:7777/AlQithara_HD.m3u8
+    #EXTINF:-1,Alqudis
+    http://8.21.48.19:7777/Alquds_Med.m3u8
+    #EXTINF:-1,Alqudis
+    http://8.21.48.20:7777/Alquds_HD.m3u8
+    #EXTINF:-1,Al-Rafidain
+    http://8.21.48.19:7777/AlRafidain_Med.m3u8
+    #EXTINF:-1,Al-Rafidain
+    http://8.21.48.20:7777/AlRafidain_HD.m3u8
+    #EXTINF:-1,Alrai
+    http://8.21.48.20:7777/Alrai_HD.m3u8
+    #EXTINF:-1,Al-Rasheed
+    http://8.21.48.19:7777/AlRasheed_Med.m3u8
+    #EXTINF:-1,Al-Rasheed
+    http://8.21.48.20:7777/AlRasheed_HD.m3u8
+    #EXTINF:-1,Al-Resalah
+    http://8.21.48.19:7777/AlResala_Med.m3u8
+    #EXTINF:-1,Al-Resalah
+    http://8.21.48.20:7777/AlResala_HD.m3u8
+    #EXTINF:-1,Alriadia-Sport
+    http://8.21.48.19:7777/Arryadia_Med.m3u8
+    #EXTINF:-1,Alriadia-Sport
+    http://8.21.48.20:7777/Arryadia_HD.m3u8
+    #EXTINF:-1,Al-Sabah
+    http://8.21.48.19:7777/AlSabah_Med.m3u8
+    #EXTINF:-1,Al-Sabah
+    http://8.21.48.20:7777/AlSabah_HD.m3u8
+    #EXTINF:-1,alsaeedah
+    http://8.21.48.20:7777/AlSaeeda_HD.m3u8
+    #EXTINF:-1,Al-sahraa
+    http://8.21.48.19:7777/AlSahraa_Med.m3u8
+    #EXTINF:-1,Al-sahraa
+    http://8.21.48.20:7777/AlSahraa_HD.m3u8
+    #EXTINF:-1,Al-Sharqiya
+    http://8.21.48.19:7777/AlSharqiya_Med.m3u8
+    #EXTINF:-1,Al-Sharqiya
+    http://8.21.48.20:7777/AlSharqiya_HD.m3u8
+    #EXTINF:-1,Al-Sharqiya-News
+    http://8.21.48.19:7777/AlsharqiyaNews_Med.m3u8
+    #EXTINF:-1,Al-Sharqiya-News
+    http://8.21.48.20:7777/AlsharqiyaNews_HD.m3u8
+    #EXTINF:-1,Al-Sumaria
+    http://8.21.48.19:7777/Alsumaria_Med.m3u8
+    #EXTINF:-1,Al-Sumaria
+    http://8.21.48.20:7777/Alsumaria_HD.m3u8
+    #EXTINF:-1,AlSunnah
+    http://8.21.48.19:7777/AlSunnah_Med.m3u8
+    #EXTINF:-1,AlSunnah
+    http://8.21.48.20:7777/AlSunnah_HD.m3u8
+    #EXTINF:-1,Al-Thakafiyah
+    http://8.21.48.19:7777/AlThakafiyah_Med.m3u8
+    #EXTINF:-1,Al-Thakafiyah
+    http://8.21.48.20:7777/AlThakafiyah_HD.m3u8
+    #EXTINF:-1,Al-Tunisia
+    http://8.21.48.20:7777/Tounisa_HD.m3u8
+    #EXTINF:-1,alwatan
+    http://8.21.48.19:7777/Alwatan_Med.m3u8
+    #EXTINF:-1,alwatan
+    http://8.21.48.20:7777/Alwatan_HD.m3u8
+    #EXTINF:-1,Alwatan-Plus
+    http://8.21.48.19:7777/AlwatanPlus_Med.m3u8
+    #EXTINF:-1,Alwatan-Plus
+    http://8.21.48.20:7777/AlwatanPlus_HD.m3u8
+    #EXTINF:-1,ANB
+    http://8.21.48.20:7777/ANB_HD.m3u8
+    #EXTINF:-1,ANN
+    http://8.21.48.20:7777/ANN_HD.m3u8
+    #EXTINF:-1,Arabica-Music
+    http://8.21.48.19:7777/ArabicaMusic_Med.m3u8
+    #EXTINF:-1,Arabica-Music
+    http://8.21.48.20:7777/ArabicaMusic_HD.m3u8
+    #EXTINF:-1,Arrabia
+    http://8.21.48.19:7777/Arrabiaa_Med.m3u8
+    #EXTINF:-1,Arrabia
+    http://8.21.48.20:7777/Arrabiaa_HD.m3u8
+    #EXTINF:-1,Ashorooq
+    http://8.21.48.20:7777/AlShrooq_HD.m3u8
+    #EXTINF:-1,Assadissa
+    http://8.21.48.19:7777/Assadissa_Med.m3u8
+    #EXTINF:-1,Assadissa
+    http://8.21.48.20:7777/Assadissa_HD.m3u8
+    #EXTINF:-1,AssyrSat
+    http://8.21.48.20:7777/AssyrSat_HD.m3u8
+    #EXTINF:-1,Atfal-wa-Mawaheb
+    http://8.21.48.20:7777/AtfalwaMawaheb_HD.m3u8
+    #EXTINF:-1,Baghdad
+    http://8.21.48.19:7777/Baghdad_Med.m3u8
+    #EXTINF:-1,Baghdad
+    http://8.21.48.20:7777/Baghdad_HD.m3u8
+    #EXTINF:-1,BAHRAIN-SPORTS
+    http://8.21.48.19:7777/BahrainSport_Med.m3u8
+    #EXTINF:-1,BAHRAIN-SPORTS
+    http://8.21.48.20:7777/BahrainSport_HD.m3u8
+    #EXTINF:-1,Bahrain
+    http://8.21.48.19:7777/Bahrain_Med.m3u8
+    #EXTINF:-1,Bahrain
+    http://8.21.48.20:7777/Bahrain_HD.m3u8
+    #EXTINF:-1,Bahrain
+    http://8.21.48.20:7777/BahrainInt_HD.m3u8
+    #EXTINF:-1,Baraem
+    http://8.21.48.20:7777/Baraem_HD.m3u8
+    #EXTINF:-1,BBC-Arabic
+    http://8.21.48.19:7777/BBCArabic_Med.m3u8
+    #EXTINF:-1,BBC-Arabic
+    http://8.21.48.20:7777/BBCArabic_HD.m3u8
+    #EXTINF:-1,Beladi
+    http://8.21.48.19:7777/Beladi_Med.m3u8
+    #EXTINF:-1,Beladi
+    http://8.21.48.20:7777/Beladi_HD.m3u8
+    #EXTINF:-1,Blue-Nile
+    http://8.21.48.19:7777/BlueNile_Med.m3u8
+    #EXTINF:-1,Blue-Nile
+    http://8.21.48.20:7777/BlueNile_HD.m3u8
+    #EXTINF:-1,Cairo-Cinema
+    http://8.21.48.19:7777/CairoCinema_Med.m3u8
+    #EXTINF:-1,Cairo-Cinema
+    http://8.21.48.20:7777/CairoCinema_HD.m3u8
+    #EXTINF:-1,Cairo-Cinema-2
+    http://8.21.48.20:7777/Mosar3_HD.m3u8
+    #EXTINF:-1,Cairo-Comedy
+    http://8.21.48.20:7777/CairoComedy_HD.m3u8
+    #EXTINF:-1,Cairo-Drama
+    http://8.21.48.20:7777/CairoDrama_HD.m3u8
+    #EXTINF:-1,Cartoon-Network
+    http://8.21.48.20:7777/CNArabia_HD.m3u8
+    #EXTINF:-1,CBC
+    http://8.21.48.20:7777/CBC_HD.m3u8
+    #EXTINF:-1,CBC-Drama
+    http://8.21.48.20:7777/CBCDrama_HD.m3u8
+    #EXTINF:-1,CBC-Extra
+    http://8.21.48.20:7777/CBC2_HD.m3u8
+    #EXTINF:-1,CBC-Sofra
+    http://8.21.48.20:7777/CBCSofra_HD.m3u8
+    #EXTINF:-1,CCTV-Arabic
+    http://8.21.48.19:7777/CCTVArabia_Med.m3u8
+    #EXTINF:-1,CCTV-Arabic
+    http://8.21.48.20:7777/CCTVArabia_HD.m3u8
+    #EXTINF:-1,Chabab
+    http://8.21.48.20:7777/Chabab_HD.m3u8
+    #EXTINF:-1,Chobra-Cima
+    http://8.21.48.20:7777/LayaliCinema_HD.m3u8
+    #EXTINF:-1,Cima
+    http://8.21.48.20:7777/Cima_HD.m3u8
+    #EXTINF:-1,Cine-Majesti
+    http://8.21.48.20:7777/MajesticCinema_HD.m3u8
+    #EXTINF:-1,Coptic_Christian
+    http://8.21.48.19:7777/CTVEgypt_Med.m3u8
+    #EXTINF:-1,Coptic_Christian
+    http://8.21.48.20:7777/CTVEgypt_HD.m3u8
+    #EXTINF:-1,Dejlah
+    http://8.21.48.20:7777/Dejlah_HD.m3u8
+    #EXTINF:-1,Djibouti
+    http://8.21.48.19:7777/RTD_Med.m3u8
+    #EXTINF:-1,Djibouti
+    http://8.21.48.20:7777/RTD_HD.m3u8
+    #EXTINF:-1,Djibouti
+    http://8.21.48.26:7777/RTD.m3u8
+    #EXTINF:-1,DM
+    http://8.21.48.19:7777/DM_Med.m3u8
+    #EXTINF:-1,DM
+    http://8.21.48.20:7777/DM_HD.m3u8
+    #EXTINF:-1,Dream-1
+    http://8.21.48.19:7777/Dream1_Med.m3u8
+    #EXTINF:-1,Dream-1
+    http://8.21.48.20:7777/Dream1_HD.m3u8
+    #EXTINF:-1,Dream-2
+    http://8.21.48.20:7777/Dream2_HD.m3u8
+    #EXTINF:-1,Dubai
+    http://8.21.48.19:7777/DubaiEurope_Med.m3u8
+    #EXTINF:-1,Dubai
+    http://8.21.48.20:7777/DubaiEurope_HD.m3u8
+    #EXTINF:-1,Dubai-One
+    http://8.21.48.20:7777/DubaiOne_HD.m3u8
+    #EXTINF:-1,Dubai-Sport-3
+    http://8.21.48.19:7777/DubaiSports_Med.m3u8
+    #EXTINF:-1,Dubai-Sport-3
+    http://8.21.48.20:7777/DubaiSports_HD.m3u8
+    #EXTINF:-1,Dubai-Sport-HD2
+    http://8.21.48.20:7777/DubaiSport_HD.m3u8
+    #EXTINF:-1,Dubai-Sport-HD2
+    http://8.21.48.20:7777/DubaiSport2_HD.m3u8
+    #EXTINF:-1,DW-Arabic
+    http://8.21.48.19:7777/DWTVArabia_Med.m3u8
+    #EXTINF:-1,DW-Arabic
+    http://8.21.48.20:7777/DWTVArabia_HD.m3u8
+    #EXTINF:-1,Egypt-2
+    http://8.21.48.19:7777/AlThanya_Med.m3u8
+    #EXTINF:-1,Egypt-2
+    http://8.21.48.20:7777/AlThanya_HD.m3u8
+    #EXTINF:-1,EnnaharTV-algerie
+    http://8.21.48.20:7777/AlAtlas_HD.m3u8
+    #EXTINF:-1,ETV1
+    http://8.21.48.20:7777/ETV1_HD.m3u8
+    #EXTINF:-1,Euro-News-Arabic
+    http://8.21.48.20:7777/EuroNews_HD.m3u8
+    #EXTINF:-1,Fatafeat
+    http://8.21.48.19:7777/Fatafeat_Med.m3u8
+    #EXTINF:-1,Fatafeat
+    http://8.21.48.20:7777/Fatafeat_HD.m3u8
+    #EXTINF:-1,Fox-Movies
+    http://8.21.48.20:7777/FoxMovies_HD.m3u8
+    #EXTINF:-1,France-24
+    http://8.21.48.19:7777/France24Arabic_Med.m3u8
+    #EXTINF:-1,France-24
+    http://8.21.48.20:7777/France24Arabic_HD.m3u8
+    #EXTINF:-1,Funoon
+    http://8.21.48.19:7777/Funoon_Med.m3u8
+    #EXTINF:-1,Funoon
+    http://8.21.48.20:7777/Funoon_HD.m3u8
+    #EXTINF:-1,Future-News
+    http://8.21.48.20:7777/FutureNews_HD.m3u8
+    #EXTINF:-1,Future-TV
+    http://8.21.48.20:7777/Future_HD.m3u8
+    #EXTINF:-1,FutureUSA
+    http://8.21.48.20:7777/FutureUSA_HD.m3u8
+    #EXTINF:-1,Fx-Arabia
+    http://8.21.48.20:7777/Fox_HD.m3u8
+    #EXTINF:-1,GearOne
+    http://8.21.48.19:7777/GearOne_Med.m3u8
+    #EXTINF:-1,GearOne
+    http://8.21.48.20:7777/GearOne_HD.m3u8
+    #EXTINF:-1,Gladiator
+    http://8.21.48.20:7777/Gladiator_HD.m3u8
+    #EXTINF:-1,Goan
+    http://8.21.48.19:7777/GoanTV_Med.m3u8
+    #EXTINF:-1,Goan
+    http://8.21.48.20:7777/GoanTV_HD.m3u8
+    #EXTINF:-1,Hanibal
+    http://8.21.48.19:7777/Hannibal_Med.m3u8
+    #EXTINF:-1,Hanibal
+    http://8.21.48.20:7777/Hannibal_HD.m3u8
+    #EXTINF:-1,HDi-1-Sat
+    http://8.21.48.20:7777/Medi1_HD.m3u8
+    #EXTINF:-1,HodHod
+    http://8.21.48.19:7777/HodHod_Med.m3u8
+    #EXTINF:-1,HodHod
+    http://8.21.48.20:7777/HodHod_HD.m3u8
+    #EXTINF:-1,Huda
+    http://8.21.48.19:7777/Huda_Med.m3u8
+    #EXTINF:-1,Huda
+    http://8.21.48.20:7777/Huda_HD.m3u8
+    #EXTINF:-1,Imagines-Movies
+    http://8.21.48.20:7777/ImagineMovies_HD.m3u8
+    #EXTINF:-1,Iqra
+    http://8.21.48.19:7777/Iqraa_Med.m3u8
+    #EXTINF:-1,Iqra
+    http://8.21.48.20:7777/Iqraa_HD.m3u8
+    #EXTINF:-1,Ishtar
+    http://8.21.48.19:7777/Ishtar_Med.m3u8
+    #EXTINF:-1,Ishtar
+    http://8.21.48.20:7777/Ishtar_HD.m3u8
+    #EXTINF:-1,iFilm-Arabic
+    http://8.21.48.19:7777/iFilm_Med.m3u8
+    #EXTINF:-1,iFilm-Arabic
+    http://8.21.48.20:7777/iFilm_HD.m3u8
+    #EXTINF:-1,Jordan
+    http://8.21.48.19:7777/GamarHashimi_Med.m3u8
+    #EXTINF:-1,Jordan
+    http://8.21.48.20:7777/GamarHashimi_HD.m3u8
+    #EXTINF:-1,Jordan-Sport
+    http://8.21.48.20:7777/JordanSport_HD.m3u8
+    #EXTINF:-1,Kaifa
+    http://8.21.48.20:7777/Kaifa_HD.m3u8
+    #EXTINF:-1,Karameesh
+    http://8.21.48.19:7777/Karameesh_Med.m3u8
+    #EXTINF:-1,Karameesh
+    http://8.21.48.20:7777/Karameesh_HD.m3u8
+    #EXTINF:-1,Koky-Kids
+    http://8.21.48.20:7777/Koky_HD.m3u8
+    #EXTINF:-1,KSA-1
+    http://8.21.48.19:7777/SaudiArabia1_Med.m3u8
+    #EXTINF:-1,KSA-1
+    http://8.21.48.20:7777/SaudiArabia1_HD.m3u8
+    #EXTINF:-1,KSA-1
+    http://8.21.48.26:7777/SaudiArabia1.m3u8
+    #EXTINF:-1,KSA-2
+    http://8.21.48.19:7777/KSA2_Med.m3u8
+    #EXTINF:-1,KSA-2
+    http://8.21.48.20:7777/KSA2_HD.m3u8
+    #EXTINF:-1,KTV2
+    http://8.21.48.19:7777/KTV2Kuwait_Med.m3u8
+    #EXTINF:-1,KTV2
+    http://8.21.48.20:7777/KTV2Kuwait_HD.m3u8
+    #EXTINF:-1,KTV-ARABE
+    http://8.21.48.20:7777/KTVAlArabi_HD.m3u8
+    #EXTINF:-1,KTV-Sport-Plus
+    http://8.21.48.19:7777/KTV3Plus_Med.m3u8
+    #EXTINF:-1,KTV-Sport-Plus
+    http://8.21.48.20:7777/KTV3Plus_HD.m3u8
+    #EXTINF:-1,Kuwait
+    http://8.21.48.19:7777/KuwaitSpace_Med.m3u8
+    #EXTINF:-1,Kuwait
+    http://8.21.48.20:7777/KuwaitSpace_HD.m3u8
+    #EXTINF:-1,Kuwait
+    http://8.21.48.26:7777/KuwaitSpace.m3u8
+    #EXTINF:-1,Lbc-Europe
+    http://8.21.48.20:7777/LBC_HD.m3u8
+    #EXTINF:-1,LCD-AFLAM
+    http://8.21.48.20:7777/LcdTurkey_HD.m3u8
+    #EXTINF:-1,LDC
+    http://8.21.48.20:7777/LDC_HD.m3u8
+    #EXTINF:-1,Libya
+    http://8.21.48.19:7777/AlAhrar_Med.m3u8
+    #EXTINF:-1,Libya
+    http://8.21.48.20:7777/AlAhrar_HD.m3u8
+    #EXTINF:-1,Libya-2
+    http://8.21.48.19:7777/Libya_Med.m3u8
+    #EXTINF:-1,Libya-2
+    http://8.21.48.20:7777/Libya_HD.m3u8
+    #EXTINF:-1,Libya-2
+    http://8.21.48.26:7777/Libya.m3u8
+    #EXTINF:-1,Libya-AlWataniya
+    http://8.21.48.19:7777/LibyaAlWataniya_Med.m3u8
+    #EXTINF:-1,Libya-AlWataniya
+    http://8.21.48.20:7777/LibyaAlWataniya_HD.m3u8
+    #EXTINF:-1,Libya-AlWataniya
+    http://8.21.48.26:7777/LibyaAlWataniya.m3u8
+    #EXTINF:-1,Libya-Sport-1
+    http://8.21.48.19:7777/LibyaSportChannel1_Med.m3u8
+    #EXTINF:-1,Libya-Sport-1
+    http://8.21.48.20:7777/LibyaSportChannel1_HD.m3u8
+    #EXTINF:-1,Libya-Sport-1
+    http://8.21.48.26:7777/LibyaSportChannel1.m3u8
+    #EXTINF:-1,LineSport
+    http://8.21.48.20:7777/LineSport_HD.m3u8
+    #EXTINF:-1,LLBN
+    http://8.21.48.19:7777/LLBN_Med.m3u8
+    #EXTINF:-1,LLBN
+    http://8.21.48.20:7777/LLBN_HD.m3u8
+    #EXTINF:-1,LLBN
+    http://8.21.48.26:7777/LLBN.m3u8
+    #EXTINF:-1,Maannews
+    http://8.21.48.20:7777/MixTV_HD.m3u8
+    #EXTINF:-1,Mara7
+    http://8.21.48.19:7777/Mara7_Med.m3u8
+    #EXTINF:-1,Mara7
+    http://8.21.48.20:7777/Mara7_HD.m3u8
+    #EXTINF:-1,Mara7
+    http://8.21.48.26:7777/Mara7.m3u8
+    #EXTINF:-1,Masrawi-Aflam
+    http://8.21.48.20:7777/MasrawiAflam_HD.m3u8
+    #EXTINF:-1,Massaya
+    http://8.21.48.19:7777/Massaya_Med.m3u8
+    #EXTINF:-1,Massaya
+    http://8.21.48.20:7777/Massaya_HD.m3u8
+    #EXTINF:-1,Massaya
+    http://8.21.48.26:7777/Massaya.m3u8
+    #EXTINF:-1,Mauritanie
+    http://8.21.48.19:7777/MauritaniaTV_Med.m3u8
+    #EXTINF:-1,Mauritanie
+    http://8.21.48.20:7777/MauritaniaTV_HD.m3u8
+    #EXTINF:-1,MBC-1
+    http://8.21.48.20:7777/MBC1_HD.m3u8
+    #EXTINF:-1,MBC-2
+    http://8.21.48.20:7777/MBC2_HD.m3u8
+    #EXTINF:-1,MBC-3
+    http://8.21.48.20:7777/MBC3_HD.m3u8
+    #EXTINF:-1,MBC-4
+    http://8.21.48.20:7777/MBC4_HD.m3u8
+    #EXTINF:-1,MBC-Action
+    http://8.21.48.20:7777/MBCAction_HD.m3u8
+    #EXTINF:-1,MBCBollywood
+    http://8.21.48.20:7777/MBCBollywood_HD.m3u8
+    #EXTINF:-1,MBC-Drama
+    http://8.21.48.20:7777/MBCDrama_HD.m3u8
+    #EXTINF:-1,MBC-Masr
+    http://8.21.48.20:7777/MBCMaser_HD.m3u8
+    #EXTINF:-1,MBCMasrPlus2
+    http://8.21.48.20:7777/MBCMasrPlus2_HD.m3u8
+    #EXTINF:-1,MBC-Max
+    http://8.21.48.20:7777/MBCMax_HD.m3u8
+    #EXTINF:-1,Mea
+    http://8.21.48.19:7777/MeaTV_Med.m3u8
+    #EXTINF:-1,Mea
+    http://8.21.48.20:7777/MeaTV_HD.m3u8
+    #EXTINF:-1,Mea
+    http://8.21.48.26:7777/MeaTV.m3u8
+    #EXTINF:-1,Medi-1-Sat
+    http://8.21.48.19:7777/Medi1_Med.m3u8
+    #EXTINF:-1,Mehwar
+    http://8.21.48.19:7777/ElMehwar_Med.m3u8
+    #EXTINF:-1,Mehwar
+    http://8.21.48.20:7777/ElMehwar_HD.m3u8
+    #EXTINF:-1,Mehwar
+    http://8.21.48.20:7777/MehwarPlus2_HD.m3u8
+    #EXTINF:-1,Miracle
+    http://8.21.48.19:7777/Miracle_Med.m3u8
+    #EXTINF:-1,Miracle
+    http://8.21.48.20:7777/Miracle_HD.m3u8
+    #EXTINF:-1,Miracle
+    http://8.21.48.26:7777/Miracle.m3u8
+    #EXTINF:-1,Moga-Comedy
+    http://8.21.48.20:7777/MogaComedy_HD.m3u8
+    #EXTINF:-1,MTV
+    http://8.21.48.19:7777/MTVLebanon_Med.m3u8
+    #EXTINF:-1,MTV
+    http://8.21.48.20:7777/MTVLebanon_HD.m3u8
+    #EXTINF:-1,MTV-Arabia
+    http://8.21.48.20:7777/MTVArabia_HD.m3u8
+    #EXTINF:-1,Music+
+    http://8.21.48.19:7777/MusicPlus_Med.m3u8
+    #EXTINF:-1,Music+
+    http://8.21.48.20:7777/MusicPlus_HD.m3u8
+    #EXTINF:-1,Music+
+    http://8.21.48.26:7777/MusicPlus.m3u8
+    #EXTINF:-1,Nart
+    http://8.21.48.19:7777/Nart_Med.m3u8
+    #EXTINF:-1,Nart
+    http://8.21.48.20:7777/Nart_HD.m3u8
+    #EXTINF:-1,Nart
+    http://8.21.48.26:7777/Nart.m3u8
+    #EXTINF:-1,National-Geo-Ad
+    http://8.21.48.20:7777/ADNatGeo_HD.m3u8
+    #EXTINF:-1,NBN
+    http://8.21.48.19:7777/NBNLebanon_Med.m3u8
+    #EXTINF:-1,NBN
+    http://8.21.48.20:7777/NBNLebanon_HD.m3u8
+    #EXTINF:-1,Neelain-Sport
+    http://8.21.48.19:7777/NeelainSport_Med.m3u8
+    #EXTINF:-1,Neelain-Sport
+    http://8.21.48.20:7777/NeelainSport_HD.m3u8
+    #EXTINF:-1,Neelain-Sport
+    http://8.21.48.26:7777/NeelainSport.m3u8
+    #EXTINF:-1,Nessma
+    http://8.21.48.19:7777/Nessma_Med.m3u8
+    #EXTINF:-1,Nessma
+    http://8.21.48.20:7777/Nessma_HD.m3u8
+    #EXTINF:-1,Nessma
+    http://8.21.48.20:7777/NessmaAlKhadra_HD.m3u8
+    #EXTINF:-1,Nessma
+    http://8.21.48.26:7777/Nessma.m3u8
+    #EXTINF:-1,Nile-Cinema
+    http://8.21.48.19:7777/NileCinema_Med.m3u8
+    #EXTINF:-1,Nile-Cinema
+    http://8.21.48.20:7777/NileCinema_HD.m3u8
+    #EXTINF:-1,Nile-Comedy
+    http://8.21.48.19:7777/NileComedy_Med.m3u8
+    #EXTINF:-1,Nile-Comedy
+    http://8.21.48.20:7777/NileComedy_HD.m3u8
+    #EXTINF:-1,Nile-Culture
+    http://8.21.48.20:7777/NileCulture_HD.m3u8
+    #EXTINF:-1,Nile-Drama
+    http://8.21.48.19:7777/NileDrama_Med.m3u8
+    #EXTINF:-1,Nile-Drama
+    http://8.21.48.20:7777/NileDrama_HD.m3u8
+    #EXTINF:-1,Nile-Drama-2
+    http://8.21.48.20:7777/NileDrama2_HD.m3u8
+    #EXTINF:-1,Nile-Drama-2
+    http://8.21.48.26:7777/NileDrama2.m3u8
+    #EXTINF:-1,Nile-Family
+    http://8.21.48.20:7777/NileFamily_HD.m3u8
+    #EXTINF:-1,Nile-Family
+    http://8.21.48.26:7777/NileFamily.m3u8
+    #EXTINF:-1,Nile-Life
+    http://8.21.48.20:7777/NileLife_HD.m3u8
+    #EXTINF:-1,Nile-News
+    http://8.21.48.20:7777/NileNews_HD.m3u8
+    #EXTINF:-1,Nile-News
+    http://8.21.48.26:7777/NileNews.m3u8
+    #EXTINF:-1,Nile-Sport
+    http://8.21.48.19:7777/NileSport_Med.m3u8
+    #EXTINF:-1,Nile-Sport
+    http://8.21.48.20:7777/NileSport_HD.m3u8
+    #EXTINF:-1,Nile-Sport
+    http://8.21.48.26:7777/NileSport.m3u8
+    #EXTINF:-1,Nile-Tv
+    http://8.21.48.19:7777/NileInt_Med.m3u8
+    #EXTINF:-1,Nile-Tv
+    http://8.21.48.20:7777/NileInt_HD.m3u8
+    #EXTINF:-1,Nojoom1
+    http://8.21.48.19:7777/Nojoom1_Med.m3u8
+    #EXTINF:-1,Nojoom1
+    http://8.21.48.20:7777/Nojoom1_HD.m3u8
+    #EXTINF:-1,Nojoom1
+    http://8.21.48.26:7777/Nojoom1.m3u8
+    #EXTINF:-1,Noon
+    http://8.21.48.20:7777/Noon_HD.m3u8
+    #EXTINF:-1,Noor-Dubai
+    http://8.21.48.19:7777/NoorDubai_Med.m3u8
+    #EXTINF:-1,Noor-Dubai
+    http://8.21.48.20:7777/NoorDubai_HD.m3u8
+    #EXTINF:-1,Noor-Dubai
+    http://8.21.48.26:7777/NoorDubai.m3u8
+    #EXTINF:-1,Nourmina
+    http://8.21.48.19:7777/Nourmina_Med.m3u8
+    #EXTINF:-1,Nourmina
+    http://8.21.48.20:7777/Nourmina_HD.m3u8
+    #EXTINF:-1,Nourmina
+    http://8.21.48.26:7777/Nourmina.m3u8
+    #EXTINF:-1,Noursat
+    http://8.21.48.19:7777/NourAlShabab_Med.m3u8
+    #EXTINF:-1,Noursat
+    http://8.21.48.19:7777/Noursat_Med.m3u8
+    #EXTINF:-1,Noursat
+    http://8.21.48.20:7777/NourAlShabab_HD.m3u8
+    #EXTINF:-1,Noursat
+    http://8.21.48.20:7777/Noursat_HD.m3u8
+    #EXTINF:-1,Noursat
+    http://8.21.48.26:7777/NourAlShabab.m3u8
+    #EXTINF:-1,Oman
+    http://8.21.48.19:7777/Oman_Med.m3u8
+    #EXTINF:-1,Oman
+    http://8.21.48.20:7777/Oman_HD.m3u8
+    #EXTINF:-1,Oman
+    http://8.21.48.26:7777/Oman.m3u8
+    #EXTINF:-1,Om-Durman
+    http://8.21.48.20:7777/OmDurman_HD.m3u8
+    #EXTINF:-1,On-TV
+    http://8.21.48.19:7777/ONTV_Med.m3u8
+    #EXTINF:-1,On-TV
+    http://8.21.48.20:7777/ONTV_HD.m3u8
+    #EXTINF:-1,ONTV-Live
+    http://8.21.48.20:7777/ONTVLive_HD.m3u8
+    #EXTINF:-1,Orient-News
+    http://8.21.48.20:7777/OrientNews_HD.m3u8
+    #EXTINF:-1,ORTM
+    http://8.21.48.20:7777/ORTM_HD.m3u8
+    #EXTINF:-1,Oscar-Drama
+    http://8.21.48.20:7777/OscarDrama_HD.m3u8
+    #EXTINF:-1,Oscar-Drama-2
+    http://8.21.48.20:7777/OscarDrama2_HD.m3u8
+    #EXTINF:-1,OTV-Lebanon
+    http://8.21.48.20:7777/OTV_HD.m3u8
+    #EXTINF:-1,Oyoun-Jeddah
+    http://8.21.48.19:7777/OyounJeddah_Med.m3u8
+    #EXTINF:-1,Oyoun-Jeddah
+    http://8.21.48.20:7777/OyounJeddah_HD.m3u8
+    #EXTINF:-1,Oyoun-Jeddah
+    http://8.21.48.26:7777/OyounJeddah.m3u8
+    #EXTINF:-1,Palestine
+    http://8.21.48.19:7777/Palestinian_Med.m3u8
+    #EXTINF:-1,Palestine
+    http://8.21.48.20:7777/Palestinian_HD.m3u8
+    #EXTINF:-1,Palestine
+    http://8.21.48.26:7777/Palestinian.m3u8
+    #EXTINF:-1,Palestine-AlYawm
+    http://8.21.48.19:7777/PalestineAlYawm_Med.m3u8
+    #EXTINF:-1,Palestine-AlYawm
+    http://8.21.48.20:7777/PalestineAlYawm_HD.m3u8
+    #EXTINF:-1,Palestine-AlYawm
+    http://8.21.48.26:7777/PalestineAlYawm.m3u8
+    #EXTINF:-1,Palestine-Live
+    http://8.21.48.19:7777/PalestineLive_Med.m3u8
+    #EXTINF:-1,Palestine-Live
+    http://8.21.48.20:7777/PalestineLive_HD.m3u8
+    #EXTINF:-1,Palestine-Live
+    http://8.21.48.26:7777/PalestineLive.m3u8
+    #EXTINF:-1,Panorama-Drama
+    http://8.21.48.20:7777/PanoramaDrama_HD.m3u8
+    #EXTINF:-1,Panorama-Drama-2
+    http://8.21.48.20:7777/PanoramaDrama2_HD.m3u8
+    #EXTINF:-1,Panorama-film
+    http://8.21.48.20:7777/PanoramaFilm_HD.m3u8
+    #EXTINF:-1,Qatar
+    http://8.21.48.19:7777/Qatar_Med.m3u8
+    #EXTINF:-1,Qatar
+    http://8.21.48.20:7777/Qatar_HD.m3u8
+    #EXTINF:-1,Qatar
+    http://8.21.48.26:7777/Qatar.m3u8
+    #EXTINF:-1,Quran-TV-ksa
+    http://8.21.48.19:7777/AlQuran_Med.m3u8
+    #EXTINF:-1,Quran-TV-ksa
+    http://8.21.48.20:7777/AlQuran_HD.m3u8
+    #EXTINF:-1,RAK
+    http://8.21.48.20:7777/RAK_HD.m3u8
+    #EXTINF:-1,Rotana-Aflam
+    http://8.21.48.20:7777/RotanaAflam_HD.m3u8
+    #EXTINF:-1,Rotana-Cinema
+    http://8.21.48.20:7777/RotanaCinema_HD.m3u8
+    #EXTINF:-1,Rotana-Classic
+    http://8.21.48.20:7777/RotanaZaman_HD.m3u8
+    #EXTINF:-1,Rotana-Clip
+    http://8.21.48.20:7777/RotanaClip_HD.m3u8
+    #EXTINF:-1,Rotana-Khaligi
+    http://8.21.48.20:7777/RotanaKhalijiah_HD.m3u8
+    #EXTINF:-1,Rotana-Masriya
+    http://8.21.48.20:7777/RotanaMasriya_HD.m3u8
+    #EXTINF:-1,Rotana-Music
+    http://8.21.48.19:7777/RotanaMusic_Med.m3u8
+    #EXTINF:-1,Rotana-Music
+    http://8.21.48.20:7777/RotanaMusic_HD.m3u8
+    #EXTINF:-1,Roya
+    http://8.21.48.19:7777/Roya_Med.m3u8
+    #EXTINF:-1,Roya
+    http://8.21.48.20:7777/Roya_HD.m3u8
+    http://8.21.48.26:7777/Roya.m3u8
+    #EXTINF:-1,Royal-Albadawiya
+    http://8.21.48.20:7777/RoyalAlBadawia_HD.m3u8
+    #EXTINF:-1,Royal-Edhak
+    http://8.21.48.20:7777/RoyalEdhak_HD.m3u8
+    #EXTINF:-1,Royal-Secret
+    http://8.21.48.20:7777/RoyalSecrets_HD.m3u8
+    #EXTINF:-1,Russia-Alyaum
+    http://8.21.48.19:7777/RussiyaAlYaum_Med.m3u8
+    #EXTINF:-1,Russia-Alyaum
+    http://8.21.48.20:7777/RussiyaAlYaum_HD.m3u8
+    #EXTINF:-1,Russia-Alyaum
+    http://8.21.48.26:7777/RussiyaAlYaum.m3u8
+    #EXTINF:-1,Sada-Al-Balad
+    http://8.21.48.20:7777/SadaAlBalad_HD.m3u8
+    #EXTINF:-1,Sada-AlBalad-Drama
+    http://8.21.48.20:7777/SadaAlBaladDrama_HD.m3u8
+    #EXTINF:-1,Sama-Cinema
+    http://8.21.48.20:7777/SamaCinema_HD.m3u8
+    #EXTINF:-1,Sama-Dubai
+    http://8.21.48.19:7777/SamaDubai_Med.m3u8
+    #EXTINF:-1,Sama-Dubai
+    http://8.21.48.20:7777/SamaDubai_HD.m3u8
+    #EXTINF:-1,Sama-Dubai
+    http://8.21.48.26:7777/SamaDubai.m3u8
+    #EXTINF:-1,Sama-Syria
+    http://8.21.48.19:7777/SamaTV_Med.m3u8
+    #EXTINF:-1,Sama-Syria
+    http://8.21.48.20:7777/SamaTV_HD.m3u8
+    #EXTINF:-1,Sama-Syria
+    http://8.21.48.26:7777/SamaTV.m3u8
+    #EXTINF:-1,Samira-TV
+    http://8.21.48.20:7777/SamiraTV_HD.m3u8
+    #EXTINF:-1,Sat7-Kid
+    http://8.21.48.19:7777/Sat7Kid_Med.m3u8
+    #EXTINF:-1,Sat7-Kid
+    http://8.21.48.20:7777/Sat7Kid_HD.m3u8
+    #EXTINF:-1,Sat7-Kid
+    http://8.21.48.26:7777/Sat7Kid.m3u8
+    #EXTINF:-1,Saudia-Sport
+    http://8.21.48.19:7777/AlRiyadiah_Med.m3u8
+    #EXTINF:-1,Saudia-Sport
+    http://8.21.48.20:7777/AlRiyadiah_HD.m3u8
+    #EXTINF:-1,Saudia-Sport
+    http://8.21.48.20:7777/AlRiyadiah1_HD.m3u8
+    #EXTINF:-1,Scope
+    http://8.21.48.19:7777/ScopeTV_Med.m3u8
+    #EXTINF:-1,Scope
+    http://8.21.48.20:7777/ScopeTV_HD.m3u8
+    #EXTINF:-1,Scope
+    http://8.21.48.26:7777/ScopeTV.m3u8
+    #EXTINF:-1,Sharjah
+    http://8.21.48.19:7777/SharjahTV_Med.m3u8
+    #EXTINF:-1,Sharjah
+    http://8.21.48.20:7777/SharjahTV_HD.m3u8
+    #EXTINF:-1,Sharjah
+    http://8.21.48.26:7777/SharjahTV.m3u8
+    #EXTINF:-1,Sheba
+    http://8.21.48.19:7777/Sheba_Med.m3u8
+    #EXTINF:-1,Sheba
+    http://8.21.48.20:7777/Sheba_HD.m3u8
+    #EXTINF:-1,Sheba
+    http://8.21.48.26:7777/Sheba.m3u8
+    #EXTINF:-1,SkyNewsArabia
+    http://8.21.48.20:7777/SkyNews_HD.m3u8
+    #EXTINF:-1,SM-SM-KIDS
+    http://8.21.48.19:7777/Semsem_Med.m3u8
+    #EXTINF:-1,SM-SM-KIDS
+    http://8.21.48.20:7777/Semsem_HD.m3u8
+    #EXTINF:-1,SM-SM-KIDS
+    http://8.21.48.26:7777/Semsem.m3u8
+    #EXTINF:-1,SNTV
+    http://8.21.48.20:7777/SNTV_HD.m3u8
+    #EXTINF:-1,Spacetoon
+    http://8.21.48.20:7777/SpaceToonArabic_HD.m3u8
+    #EXTINF:-1,SSTV
+    http://8.21.48.20:7777/SSTV_HD.m3u8
+    #EXTINF:-1,Star-1-Cinema
+    http://8.21.48.20:7777/StarCinema1_HD.m3u8
+    #EXTINF:-1,Star-2-Cinema
+    http://8.21.48.20:7777/StarCinema2_HD.m3u8
+    #EXTINF:-1,Sudan-TV
+    http://8.21.48.19:7777/Sudan_Med.m3u8
+    #EXTINF:-1,Sudan-TV
+    http://8.21.48.20:7777/Sudan_HD.m3u8
+    #EXTINF:-1,Sudan-TV
+    http://8.21.48.26:7777/Sudan.m3u8
+    #EXTINF:-1,Syria
+    http://8.21.48.19:7777/SyriaSat_Med.m3u8
+    #EXTINF:-1,Syria
+    http://8.21.48.20:7777/SyriaSat_HD.m3u8
+    #EXTINF:-1,Syria
+    http://8.21.48.26:7777/SyriaSat.m3u8
+    #EXTINF:-1,Syria-Drama
+    http://8.21.48.19:7777/SyriaDrama_Med.m3u8
+    #EXTINF:-1,Syria-Drama
+    http://8.21.48.20:7777/SyriaDrama_HD.m3u8
+    #EXTINF:-1,Syria-Drama
+    http://8.21.48.26:7777/SyriaDrama.m3u8
+    #EXTINF:-1,Syria-Nour
+    http://8.21.48.19:7777/NourElSham_Med.m3u8
+    #EXTINF:-1,Syria-Nour
+    http://8.21.48.20:7777/NourElSham_HD.m3u8
+    #EXTINF:-1,Syria-Nour
+    http://8.21.48.26:7777/NourElSham.m3u8
+    #EXTINF:-1,Syria-Sedu
+    http://8.21.48.19:7777/SyrianEducation_Med.m3u8
+    #EXTINF:-1,Syria-Sedu
+    http://8.21.48.20:7777/SyrianEducation_HD.m3u8
+    #EXTINF:-1,Syria-Sedu
+    http://8.21.48.26:7777/SyrianEducation.m3u8
+    #EXTINF:-1,Syria-Talaqie
+    http://8.21.48.20:7777/Talaqi_HD.m3u8
+    #EXTINF:-1,Taha
+    http://8.21.48.19:7777/Taha_Med.m3u8
+    #EXTINF:-1,Taha
+    http://8.21.48.20:7777/Taha_HD.m3u8
+    #EXTINF:-1,Taha
+    http://8.21.48.26:7777/Taha.m3u8
+    #EXTINF:-1,Tahrir
+    http://8.21.48.19:7777/Tahrir_Med.m3u8
+    #EXTINF:-1,Tahrir
+    http://8.21.48.20:7777/Tahrir_HD.m3u8
+    #EXTINF:-1,Tamazigh-Maroc
+    http://8.21.48.19:7777/Tamazight_Med.m3u8
+    #EXTINF:-1,Tamazigh-Maroc
+    http://8.21.48.20:7777/Tamazight_HD.m3u8
+    #EXTINF:-1,Tamazigh-Maroc
+    http://8.21.48.26:7777/Tamazight.m3u8
+    #EXTINF:-1,Taxi-El-Sahra
+    http://8.21.48.20:7777/TimeTiatro_HD.m3u8
+    #EXTINF:-1,Tayba
+    http://8.21.48.19:7777/Tayba_Med.m3u8
+    #EXTINF:-1,Tayba
+    http://8.21.48.20:7777/Tayba_HD.m3u8
+    #EXTINF:-1,Tayba
+    http://8.21.48.26:7777/Tayba.m3u8
+    #EXTINF:-1,Tele-Liban
+    http://8.21.48.19:7777/TeleLiban_Med.m3u8
+    #EXTINF:-1,Tele-Liban
+    http://8.21.48.20:7777/TeleLiban_HD.m3u8
+    #EXTINF:-1,Tele-Liban
+    http://8.21.48.26:7777/TeleLiban.m3u8
+    #EXTINF:-1,Time-Cinema
+    http://8.21.48.20:7777/TimeCinema_HD.m3u8
+    #EXTINF:-1,Time-Drama
+    http://8.21.48.20:7777/TimeDrama_HD.m3u8
+    #EXTINF:-1,Toktok
+    http://8.21.48.20:7777/25TV_HD.m3u8
+    #EXTINF:-1,Tounesna
+    http://8.21.48.20:7777/Tunisia_HD.m3u8
+    #EXTINF:-1,Toyor-Al-Janah
+    http://8.21.48.19:7777/ToyorAlJanah_Med.m3u8
+    #EXTINF:-1,Toyor-Al-Janah
+    http://8.21.48.20:7777/ToyorAlJanah_HD.m3u8
+    #EXTINF:-1,Toyor-Al-Janah
+    http://8.21.48.26:7777/ToyorAlJanah.m3u8
+    #EXTINF:-1,TRT-Arabic
+    http://8.21.48.19:7777/TRTArabic_Med.m3u8
+    #EXTINF:-1,TRT-Arabic
+    http://8.21.48.20:7777/TRTArabic_HD.m3u8
+    #EXTINF:-1,TRT-Arabic
+    http://8.21.48.26:7777/TRTArabic.m3u8
+    #EXTINF:-1,Tunisia-national-1
+    http://8.21.48.19:7777/Tunisie7_Med.m3u8
+    #EXTINF:-1,Tunisia-national-1
+    http://8.21.48.20:7777/Tunisie7_HD.m3u8
+    #EXTINF:-1,Tunisia-national-1
+    http://8.21.48.26:7777/Tunisie7.m3u8
+    #EXTINF:-1,TV-5-MONDE
+    http://8.21.48.20:7777/TV5_HD.m3u8
+    #EXTINF:-1,Unrwa
+    http://8.21.48.20:7777/Unrwa_HD.m3u8
+    #EXTINF:-1,Wanasah
+    http://8.21.48.19:7777/Wanasah_Med.m3u8
+    #EXTINF:-1,Wanasah
+    http://8.21.48.20:7777/Wanasah_HD.m3u8
+    #EXTINF:-1,Wanasah
+    http://8.21.48.26:7777/Wanasah.m3u8
+    #EXTINF:-1,Yemen
+    http://8.21.48.19:7777/Yemen_Med.m3u8
+    #EXTINF:0, Al Baghdadia
+    http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
+    #EXTINF:-1,Rotana Cinema
+    http://8.21.48.19:7777/RotanaCinema_HD.m3u8
+    #EXTINF:-1,Zee Alwen
+    http://8.21.48.19:7777/ZeeAlwan_HD.m3u8
+    #EXTINF:-1,Zee Aflam
+    http://8.21.48.19:7777/ZeeAflam_HD.m3u8
+    #EXTINF:-1,Al Hayat
+    http://8.21.48.19:7777/Hayat_HD.m3u8
+    #EXTINF:-1,El Hayat Series
+    http://8.21.48.19:7777/AlHayatMousalsalat_HD.m3u8
+    #EXTINF:-1,Al Hayat 2
+    http://8.21.48.19:7777/Alhayat2_HD.m3u8
+    #EXTINF:-1,Nile Sport
+    http://8.21.48.19:7777/NileSport_HD.m3u8
+    #EXTINF:-1,Nile News
+    http://8.21.48.19:7777/NileNews_HD.m3u8
+    #EXTINF:-1,Nile Family
+    http://8.21.48.19:7777/NileFamily_HD.m3u8
+    #EXTINF:-1,Nile Life
+    http://8.21.48.19:7777/NileLife_HD.m3u8
+    #EXTINF:-1,Nile Drama 2
+    http://8.21.48.19:7777/NileDrama2_HD.m3u8
+    #EXTINF:-1,Nile Cinema
+    http://8.21.48.19:7777/RotanaCinema_HD.m3u8
+    #EXTINF:-1,AlAan
+    http://8.21.48.19:7777/AlAan_HD.m3u8
+    #EXTINF:-1,Al Mayadeen
+    http://8.21.48.19:7777/AlMayadeen_HD.m3u8
+    #EXTINF:-1,Al Manar
+    http://8.21.48.19:7777/AlManar_HD.m3u8
+    #EXTINF:-1,Al Jadeed
+    http://8.21.48.19:7777/AlJadeed_HD.m3u8
+    #EXTINF:-1,LBC
+    http://8.21.48.19:7777/LBC_HD.m3u8
+    #EXTINF:-1,Al Lubnania
+    http://8.21.48.19:7777/AlLubnania_HD.m3u8
+    #EXTINF:-1,Tele Liban
+    http://8.21.48.19:7777/TeleLiban_HD.m3u8
+    #EXTINF:-1,Future TV
+    http://8.21.48.19:7777/Future_HD.m3u8
+    #EXTINF:-1,Future Neus
+    http://8.21.48.19:7777/FutureNews_HD.m3u8
+    #EXTINF:-1,Otv Lebanon
+    http://8.21.48.19:7777/OTV_HD.m3u8
+    #EXTINF:-1,NBN Lebanon
+    http://8.21.48.19:7777/NBNLebanon_HD.m3u8
+    #EXTINF:-1,MTVLebanon
+    http://8.21.48.19:7777/MTVLebanon_HD.m3u8
+    #EXTINF:-1,Syrian
+    http://8.21.48.19:7777/SyriaSat_HD.m3u8
+    #EXTINF:-1,Syria Sedu
+    http://8.21.48.19:7777/SyrianEducation_HD.m3u8
+    #EXTINF:-1,Syria Nour
+    http://8.21.48.19:7777/NourElSham_HD.m3u8
+    #EXTINF:-1,Syrian Drama
+    http://8.21.48.19:7777/SyriaDrama_HD.m3u8
+    #EXTINF:-1,Syrian Talaqi
+    http://8.21.48.19:7777/Talaqi_HD.m3u8
+    #EXTINF:-1,Sama Syria
+    http://8.21.48.19:7777/SamaTV_HD.m3u8
+    #EXTINF:-1,Cairo Cinema
+    http://8.21.48.19:7777/CairoCinema_HD.m3u8
+    #EXTINF:-1,Cairo Cinema 2
+    http://8.21.48.19:7777/Mosar3_HD.m3u8
+    #EXTINF:-1,Cairo Drama
+    http://8.21.48.19:7777/CairoDrama_HD.m3u8
+    #EXTINF:-1,Cairo Comedy
+    http://8.21.48.19:7777/CairoComedy_HD.m3u8
+    #EXTINF:-1,CBC
+    http://8.21.48.19:7777/CBC_HD.m3u8
+    #EXTINF:-1,CBC Sofra
+    http://8.21.48.19:7777/CBCSofra_HD.m3u8
+    #EXTINF:-1,CBC Extra
+    http://8.21.48.19:7777/CBC2_HD.m3u8
+    #EXTINF:-1,CBC Drama
+    http://8.21.48.19:7777/CBCDrama_HD.m3u8
+    #EXTINF:-1,Dubai
+    http://8.21.48.19:7777/DubaiEurope_HD.m3u8
+    #EXTINF:-1,Sama Dubai
+    http://8.21.48.19:7777/SamaDubai_HD.m3u8
+    #EXTINF:-1,Noor Dubai
+    http://8.21.48.19:7777/NoorDubai_HD.m3u8
+    #EXTINF:-1,Dubai One
+    http://8.21.48.19:7777/DubaiOne_HD.m3u8
+    #EXTINF:-1,Dubai Sport HD2
+    http://8.21.48.19:7777/DubaiSport2_HD.m3u8
+    #EXTINF:-1,Dubai Sport 3
+    http://8.21.48.19:7777/DubaiSports_HD.m3u8
+    #EXTINF:-1, Abu Dhabi 1
+    http://8.21.48.19:7777/ADEmirates_HD.m3u8
+    #EXTINF:-1,Abu Dhabi Drama
+    http://8.21.48.19:7777/ADDrama_HD.m3u8
+    #EXTINF:-1,Abu Dhabi Sports 1
+    http://8.21.48.19:7777/ADSport_HD.m3u8
+    #EXTINF:-1,tounsi
+    http://8.21.48.19:7777/Tunisia_HD.m3u8
+    #EXTINF:-1,Al hiwar Ettounsi
+    http://8.21.48.19:7777/AlHiwarTunis_HD.m3u8
+    #EXTINF:-1,Tunisia national 1
+    http://8.21.48.19:7777/Tunisie7_HD.m3u8
+    #EXTINF:-1,Medi 1 Sat
+    http://8.21.48.19:7777/Medi1_HD.m3u8
+    #EXTINF:-1,Nessma
+    http://8.21.48.19:7777/Nessma_HD.m3u8
+    #EXTINF:-1,Hanibal
+    http://8.21.48.19:7777/Hannibal_HD.m3u8
+    #EXTINF:-1,Cima
+    http://8.21.48.19:7777/LayaliCinema_HD.m3u8
+    #EXTINF:-1,Alnahar Drama
+    http://8.21.48.19:7777/AlNaharDrama_HD.m3u8
+    #EXTINF:-1,Alnahar
+    http://8.21.48.19:7777/AlNahar_HD.m3u8
+    #EXTINF:-1,AlNahar Movies
+    http://8.21.48.19:7777/AlNaharMovies_HD.m3u8
+    #EXTINF:-1,Alnahar Alyoum
+    http://8.21.48.19:7777/AlNahar2_HD.m3u8
+    #EXTINF:-1,AlNahar Sport
+    http://8.21.48.19:7777/AlNaharSport_HD.m3u8
+    #EXTINF:-1,On TV
+    http://8.21.48.19:7777/ONTV_HD.m3u8
+    #EXTINF:-1,Al Masriyah
+    http://8.21.48.19:7777/AlMasriyah_HD.m3u8
+    #EXTINF:-1,Egypt 2
+    http://8.21.48.19:7777/AlThanya_HD.m3u8
+    #EXTINF:-1,Sada AlBalad Drama
+    http://8.21.48.19:7777/SadaAlBaladDrama_HD.m3u8
+    #EXTINF:-1,Sada Al Balad
+    http://8.21.48.19:7777/SadaAlBalad_HD.m3u8
+    #EXTINF:-1,AlQahera W Elnas
+    http://8.21.48.19:7777/AlKaheraWalNas_HD.m3u8
+    #EXTINF:-1,AlQahera W Elnas 2
+    http://8.21.48.19:7777/AlKaheraWalNas2_HD.m3u8
+    #EXTINF:-1,Quran TV ksa
+    http://8.21.48.19:7777/AlQuran_HD.m3u8
+    #EXTINF:-1,Iqra
+    http://8.21.48.19:7777/Iqraa_HD.m3u8
+    #EXTINF:-1,Toyor Al Janah
+    http://8.21.48.19:7777/ToyorAlJanah_HD.m3u8
+    #EXTINF:-1,Baraem
+    http://8.21.48.19:7777/Baraem_HD.m3u8
+    #EXTINF:-1,SM SM KIDS
+    http://8.21.48.19:7777/Semsem_HD.m3u8
+    #EXTINF:-1,Koky Kids
+    http://8.21.48.19:7777/Koky_HD.m3u8
+    #EXTINF:-1,Aljazeera Children
+    http://8.21.48.19:7777/AlJazeeraKid_HD.m3u8
+    #EXTINF:-1,Cartoon Network AR
+    http://8.21.48.19:7777/CNArabia_HD.m3u8
+    #EXTINF:-1,Atfal wa Mawaheb
+    http://8.21.48.19:7777/AtfalwaMawaheb_HD.m3u8
+    #EXTINF:-1,Albait Baitak Cinema
+    http://8.21.48.19:7777/AlbaitBaitakCinema_HD.m3u8
+    #EXTINF:-1,Chobra Cima
+    http://8.21.48.19:7777/LayaliCinema_HD.m3u8
+    #EXTINF:-1,LDC
+    http://8.21.48.19:7777/LDC_HD.m3u8
+    #EXTINF:-1,Masrawi Aflam
+    http://8.21.48.19:7777/MasrawiAflam_HD.m3u8
+    #EXTINF:-1,Sama Cinema
+    http://8.21.48.19:7777/SamaCinema_HD.m3u8
+    #EXTINF:-1,Fox
+    http://8.21.48.19:7777/Fox_HD.m3u8
+    #EXTINF:-1,Fox Movies
+    http://8.21.48.19:7777/FoxMovies_HD.m3u8
+    #EXTINF:-1,Oscar Drama
+    http://8.21.48.19:7777/OscarDrama_HD.m3u8
+    #EXTINF:-1,Cairo Drama
+    http://8.21.48.19:7777/CairoDrama_HD.m3u8
+    #EXTINF:-1,Moga Comedy
+    http://8.21.48.19:7777/MogaComedy_HD.m3u8
+    #EXTINF:-1,Panorama film
+    http://8.21.48.19:7777/PanoramaFilm_HD.m3u8
+    #EXTINF:-1,Dream 1
+    http://8.21.48.19:7777/Dream1_HD.m3u8
+    #EXTINF:-1,Dream 2
+    http://8.21.48.19:7777/Dream2_HD.m3u8
+    #EXTINF:-1,Panorama Drama
+    http://8.21.48.19:7777/PanoramaDrama_HD.m3u8
+    #EXTINF:-1,Panorama Drama 2
+    http://8.21.48.19:7777/PanoramaDrama2_HD.m3u8
+    #EXTINF:-1,Top Movies
+    http://8.21.48.19:7777/TopMovies_HD.m3u8
+    #EXTINF:-1,Oscar Drama 2
+    http://8.21.48.19:7777/OscarDrama2_HD.m3u8
+    #EXTINF:-1,AlMasrawia
+    http://8.21.48.19:7777/AlMasrawia_HD.m3u8
+    #EXTINF:-1,Fox Arabic
+    http://8.21.48.19:7777/SpacePower_HD.m3u8
+    #EXTINF:-1,Toktok
+    http://8.21.48.19:7777/25TV_HD.m3u8
+    #EXTINF:-1,Taxi El Sahra
+    http://8.21.48.19:7777/TimeTiatro_HD.m3u8
+    #EXTINF:-1,Nat GeoAD
+    http://8.21.48.19:7777/ADNatGeo_HD.m3u8
+    #EXTINF:-1,Alarabiya
+    http://8.21.48.19:7777/AlArabiya_HD.m3u8
+    #EXTINF:-1,Alarabiya Ahdas
+    http://8.21.48.19:7777/AlArabiyaHadath_HD.m3u8
+    #EXTINF:-1,AlJazeera
+    http://8.21.48.19:7777/AlJazeera_HD.m3u8
+    #EXTINF:-1,Aljazeera Mubasher
+    http://8.21.48.19:7777/AlJazeeraLive_HD.m3u8
+    #EXTINF:-1,Aljazeera Mubasher Masr
+    http://8.21.48.19:7777/JSCLiveMisr_HD.m3u8
+    #EXTINF:-1,2M
+    http://8.21.48.19:7777/M2Morocco_HD.m3u8
+    #EXTINF:-1,Al oula Maroc
+    http://8.21.48.19:7777/AlAoulaEurope_HD.m3u8
+    #EXTINF:-1,Al Maghribia
+    http://8.21.48.19:7777/AlMaghribia_HD.m3u8
+    #EXTINF:-1,Tamazigh Maroc
+    http://8.21.48.19:7777/Tamazight_HD.m3u8
+    #EXTINF:-1,Medi 1 Sat
+    http://8.21.48.19:7777/Medi1_HD.m3u8
+    #EXTINF:-1,AlGeria
+    http://8.21.48.19:7777/CanalAlgerie_HD.m3u8
+    #EXTINF:-1,Algeria 3
+    http://8.21.48.19:7777/Thalitha_HD.m3u8
+    #EXTINF:-1,Ashorooq
+    http://8.21.48.19:7777/AlShrooq_HD.m3u8
+    #EXTINF:-1,EnnaharTV algerie
+    http://8.21.48.19:7777/AlAtlas_HD.m3u8
+    #EXTINF:-1,A1 Jordan
+    http://8.21.48.19:7777/A1Jordan_HD.m3u8
+    #EXTINF:-1,Jordan
+    http://8.21.48.19:7777/GamarHashimi_HD.m3u8
+    #EXTINF:-1,Royal Albadawiya
+    http://8.21.48.19:7777/RoyalAlBadawia_HD.m3u8
+    #EXTINF:-1,Roya
+    http://8.21.48.19:7777/Roya_HD.m3u8
+    #EXTINF:-1,Jordan Sport
+    http://8.21.48.19:7777/JordanSport_HD.m3u8
+    #EXTINF:-1,Mehwar
+    http://8.21.48.19:7777/ElMehwar_HD.m3u8
+    #EXTINF:-1,AL AHLY
+    http://8.21.48.19:7777/AlAhlyTV_HD.m3u8
+    #EXTINF:-1,Music
+    http://8.21.48.19:7777/MusicPlus_HD.m3u8
+    #EXTINF:-1,Baghdad
+    http://8.21.48.19:7777/Baghdad_HD.m3u8
+    #EXTINF:-1,Al Fayhaa
+    http://8.21.48.19:7777/AlFayhaa_HD.m3u8
+    #EXTINF:-1,Al Forat
+    http://8.21.48.19:7777/AlForat_HD.m3u8
+    #EXTINF:-1,Beladi
+    http://8.21.48.19:7777/Beladi_HD.m3u8
+    #EXTINF:-1,Al Sumaria
+    http://8.21.48.19:7777/Alsumaria_HD.m3u8
+    #EXTINF:-1,Al Baghdadia
+    http://8.21.48.19:7777/AlBaghdadia_HD.m3u8
+    #EXTINF:-1,Al Sharqiya
+    http://8.21.48.19:7777/AlSharqiya_HD.m3u8
+    #EXTINF:-1,Al Sharqiya News
+    http://8.21.48.19:7777/AlsharqiyaNews_HD.m3u8
+    #EXTINF:-1,ARABIC-MBC Pro Sports 1
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+    #EXTINF:-1,ARABIC-MBC Pro Sports 2
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+    #EXTINF:-1,ARABIC-MBC Pro Sports 3
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+    #EXTINF:-1,ARABIC-MBC Pro Sports 4
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+    #EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", MBC 1
+    http://8.21.48.19:7777/MBC1_HD.m3u8?Vd?u#bt!25
+    #EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", MBC 2
+    http://8.21.48.19:7777/MBC2_HD.m3u8?Vd?u#bt!25
+    #EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", MBC 3
+    http://8.21.48.19:7777/MBC3_HD.m3u8?Vd?u#bt!25
+    #EXTINF:-1 tvg-logo="MBC.png" group-title="Arabic", MBC 4
+    http://8.21.48.19:7777/MBC4_HD.m3u8?Vd?u#bt!25
+    #EXTINF:-1,Dubai
+    http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
+    #EXTINF:-1,Noor Dubai
+    http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/playlist.m3u8
+    #EXTINF:-1,Tunisia
+    http://ca-edge-1.cdn2.streamago.tv:80/streamagoedge/1052/224/playlist.m3u8
+    #EXTINF:-1,Atunisia
+    http://197.12.0.235/attounisiatv.m3u8
+    #EXTINF:-1,Syria
+    http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+    #EXTINF:-1,Alsaudia
+    rtmp://$OPT:rtmp-raw=rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892 timeout=20
+    #EXTINF:-1,LBC Europe
+    rtmp://$OPT:rtmp-raw=rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=%http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=%http://www.lbcgroup.tv/watch-lbci-live
+    #EXTINF:-1,Alwatan
+    http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+    #EXTINF:-1,Alwatan Plus
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+    #EXTINF:-1,Alwatan Ghanawi
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
+    #EXTINF:-1,Vin TV (Kurdistan)
+    http://95.170.203.137:8088/smooth.isml/manifest(format=m3u8-aapl).m3u8
+    #EXTINF:-1,Funoon TV
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+    #EXTINF:-1,Al Sumaria
+    rtmp://$OPT:rtmp-raw=rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=%http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=%http://www.alsumaria.tv/watch-Alsumaria-Live
+    #EXTINF:-1,Al Rasheed TV
+    http://http.mmp.streamuk.com/live/smil:0_fk07czmb.smil/chunklist_b1228800.m3u8
+    #EXTINF:-1,Bahrain Sport
+    rtmp://$OPT:rtmp-raw=rtmp://alayam.netromedia.net/btv3/btv3
+    #EXTINF:-1,i24 News Arabia
+    http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+    #EXTINF:-1,Sky News Arabia
+    rtmp://$OPT:rtmp-raw=rtmp://hd7.lsops.net/live//skynewsi_ar_372
+    #EXTINF:-1,BBC Arabia
+    http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+    #EXTINF:-1,Al Arabia
+    http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+    #EXTINF:-1,ETv (Ethiopia)
+    rtmp://$OPT:rtmp-raw=rtmp://213.55.98.102/live/livestream swfUrl=%http://www.etvlive.gov.et/StrobeMediaPlayback.swf pageUrl=%http://www.etvlive.gov.et/etv.html live=1 timeout=20
+    #EXTINF:-1,ERI TV (Eritrea)
+    rtmp://$OPT:rtmp-raw=rtmp://173.192.70.133:1935/live playpath=myStream swfUrl=%http://player.longtailvideo.com/player5.9.swf pageUrl=%http://eri.tv/ timeout=10
+    #EXTINF:-1,Tchad (Chad)
+    rtmp://$OPT:rtmp-raw=rtmp://tchad.streamakaci.com/tchad/tchad.stream
+    #EXTINF:0,Dubai (UAE)
+    http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/playlist.m3u8
+    #EXTINF:0,Noor Dubai (UAE)
+    http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/playlist.m3u8
+    #EXTINF:0,Al Dafrah (UAE)
+    http://live.aldafrah.tv:1935/live/aldafrah3/playlist.m3u8
+    #EXTINF:-1,Roya TV (Jordan)
+    http://212.35.75.18/roya/playlist.m3u8
+    #EXTINF:0, Algerie
+    http://109.86.103.241:8888/udp/238.0.16.24:1234
+    #EXTINF:0,Ennahar TV (Algeria)
+    http://live.ennahartv.net/live/EnnaharTV/playlist.m3u8
+    #EXTINF:0,Echorouk (Algeria)
+    http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
+    #EXTINF:-1,Syria
+    http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+    #EXTINF:-1,Syria Aloula
+    http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+    #EXTINF:-1,Syria Drama
+    http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+    #EXTINF:-1,Al Saudia
+    rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTE5Ny0xNS0yMzUtNzkyMDE0LTA1LTIzLTE3LTA0LTM3/vb008_sauditv1.stream?key=1DF7699BEF2100B54B5F770003AEF11E66B5DD32C3AB969A08536956804CF892 timeout=20
+    #EXTINF:-1,Ajyal (Saudi Arabia)
+    rtmp://ib12.islambox.tv/live/?v=hghpl]=a2V5bGl2ZTIxNy0yMzAtMjIzLTIwMjIwMTQtMDUtMjQtMTEtNTAtNDY=/vb008_ajial.stream?
+    #EXTINF:0,NBN (Lebanon)
+    rtmp://lived.nbn.com.lb/nbn playpath=mpegts.stream swfUrl=http://www.nbn.com.lb/live/flowplayer/flowplayer-3.2.16.swf pageUrl=http://www.nbn.com.lb/live/ live=1 timeout=15
+    #EXTINF:0,LBC Europe (Lebanon)
+    rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
+    #EXTINF:0,Alwatan (Kuwait)
+    http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+    #EXTINF:0,Alwatan Plus (Kuwait)
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvplushigh.m3u8
+    #EXTINF:0,Alwatan Ghanawi (Kuwait)
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
+    #EXTINF:0,Vin TV (Kurdistan)
+    http://95.170.203.137:8088/smooth.isml/manifest(format=m3u8-aapl).m3u8
+    #EXTINF:0,Speda (Kurdistan)
+    rtmp://sepidehlive.nanocdn.com:1935/live/sepideh256
+    #EXTINF:-1,Aliraqia (Iraq)
+    http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
+    #EXTINF:-1,Al Hurra (Iraq)
+    rtmp://cp51007.live.edgefcs.net:80/live?ovpfv=2.1.6/Alhurra_Flash@15 swfUrl=http://p.jwpcdn.com/6/7/jwplayer.flash.swf live=1 pageUrl=http://www.alhurra.com/info/english/112.html
+    #EXTINF:-1,Al Huria (Iraq)
+    http://streamer1.hamuraabi.com:1935/hurria/live/chunklist_w1445668128.m3u8
+    #EXTINF:0,Funoon TV (Iraq)
+    http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
+    #EXTINF:-1,Al Sumaria (Iraq)
+    rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live
+    #EXTINF:0,Al Rasheed TV (Iraq)
+    http://http.mmp.streamuk.com/live/smil:0_fk07czmb.smil/chunklist_b1228800.m3u8
+    #EXTINF:0,i24 News Arabia (Israel)
+    http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_arabic/391/master.m3u8
+    #EXTINF:0,Al Arabia (UAE)
+    http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+    #EXTINF:0,Al Hadath (UAE)
+    http://livestream7.alarabiya.tv/i/live_1@187753/master.m3u8
+    #EXTINF:0,BBC Arabia (UK)
+    http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+    #EXTINF:0,Euronews Arabia
+    http://hd1.lsops.net/live/smil:euronews_ar.smil/playlist.m3u8
+    #EXTINF:0,DW Arabia (Germany)
+    http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+    #EXTINF:0,Dubai Racing (UAE)
+    http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+    #EXTINF:0,Dubai Sports 3 (UAE)
+    http://dmilivedubaisports3.ios.internapcdn.net/dmiLiveDubaiSports3/live_1/dmilivedubaisports3_3/CCURstream1029600.m3u8
+    #EXTINF:0,Pro Sports 1 (UAE)
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+    #EXTINF:0,Pro Sports 2 (UAE)
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+    #EXTINF:0,Pro Sports 3 (UAE)
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+    #EXTINF:0,Pro Sports 4 (UAE)
+    http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+    #EXTINF:0,Bahrain Sport
+    rtmp://alayam.netromedia.net/btv3/btv3
+    #EXTINF:-1,K24 (Kenya)
+    rtmp://mediamax.cs.netromedia.net/K24test playpath=K24test swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=08ad3a43-97a5-4d23-973f-d726bc2bd52a&iframe=true&h=480&w=640&autoPlay=false&scaling=scale
+    #EXTINF:-1,ETv (Ethiopia)
+    rtmp://213.55.98.102/live/livestream swfUrl=http://www.etvlive.gov.et/StrobeMediaPlayback.swf pageUrl=http://www.etvlive.gov.et/etv.html live=1 timeout=20
+    #EXTINF:0,ERI TV (Eritrea)
+    rtmp://173.192.70.133:1935/live playpath=myStream swfUrl=http://player.longtailvideo.com/player5.9.swf pageUrl=http://eri.tv/ timeout=10
+    #EXTINF:0,Tchad (Chad)
+    rtmp://tchad.streamakaci.com/tchad/tchad.stream
+    #EXTINF:-1 tvg-logo="", MBC 1
+    http://38.99.146.36:7777/MBC1_HD/MBC1_High.m3u8?b?b*t$
+    #EXTINF:-1 tvg-logo="", MBC 2
+    http://38.99.146.36:7777/MBC2_HD/MBC2_High.m3u8?b?b*t$
+    #EXTINF:-1 tvg-logo="", MBC 3
+    http://38.99.146.36:7777/MBC3_HD/MBC3_High.m3u8?b?b*t$
+    #EXTINF:-1 tvg-logo="", MBC 4
+    http://38.99.146.36:7777/MBC4_HD/MBC4_High.m3u8?b?b*t$
+    #EXTINF:-1 tvg-logo="", MBC ACTION
+    http://38.99.146.36:7777/MBCAction_HD/MBCAction_High.m3u8?b?b*t$
+    #EXTINF:-1, Al Jazeera Kids
+    http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
+    #EXTINF:-1, Tolo TV
+    rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_480?b?b*t$
+    #EXTINF:0, Al-hurra Iraq
+    http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+    #EXTINF:0,ALRI
+    mms://62.215.216.130/wmtencoder/alrai350.wmv
+    #EXTINF:0,MBC1
+    rtmp://185.5.222.189/live/MBC1
+    #EXTINF:0,MBC Bollywood
+    rtmp://185.5.222.189/live/MBCBollywood
+    #EXTINF:0,MBC Max
+    rtmp://185.5.222.189/live/MBCMax
+    #EXTINF:0,MBC 3
+    rtmp://185.5.222.189/live/MBC3
+    #EXTINF:0,MBC 4
+    rtmp://185.5.222.189/live/MBC4
+    #EXTINF:0,MBC 2
+    rtmp://185.5.222.189/live/MBC2
+    #EXTINF:0,MBC Action
+    rtmp://185.5.222.189/live/MBCAction
+    #EXTINF:0,CBC
+    rtmp://185.5.222.189/live/CBC
+    #EXTINF:0,CBC 2
+    rtmp://185.5.222.189/live/CBC2
+    #EXTINF:0,CBC Drama
+    rtmp://185.5.222.189/live/CBCDrama
+    #EXTINF:0,CBC Extra
+    rtmp://185.5.222.189/live/CBCExtra
+    #EXTINF:0,CBC +2
+    rtmp://live-f01.vustream.net/live/livestream1
+    #EXTINF:0,MBC 2
+    rtmp://live-f01.vustream.net/live/livestream
+    #EXTINF:0,TNN
+    rtmp://$OPT:rtmp-raw=rtmp://41.231.53.11:8888/thd/ playpath=tnn  swfUrl=http://streaminghd.tn/video/player.swf?random=1182275581 live=1  pageUrl=http://streaminghd.tn/index.php/tnn.html timeout=20
+    #EXTINF:0,ABU Dhabi
+    rtmp://185.5.222.189/live/ABUDHABI1
+    #EXTINF:0,CBC 2
+    rtmp://185.5.222.189:1935/live/CBC2
+    #EXTINF:0,ANAHAR 2
+    rtmp://188.247.93.26/live/alnhar2.stream_360p
+    #EXTINF:0,MECCA
+    rtmp://188.247.93.26/live/mecca.stream_360p
+    #EXTINF:0,ALQAHERA W Elnas 2
+    rtmp://188.247.93.26/live/alkahra.stream_360p
+    #EXTINF:0,ALARABIYA
+    http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-p.m3u8
+    #EXTINF:0,ALARABIYA Ahdas
+    http://livestream7.alarabiya.tv/i/live_1@187753/index_1_av-p.m3u8
+    #EXTINF:0,ALAN
+    http://alaan_hls-lh.akamaihd.net/i/alaan_ar@103399/master.m3u8
+    #EXTINF:0,ITW orksch
+    rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
+    #EXTINF:0,AGHANI Tv
+    http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+    #EXTINF:0,CBC Sofra
+    rtmp://185.5.222.189:1935/live/CBCSofra
+    #EXTINF:0,MEDI 1 Sat
+    http://162.212.176.107:1935/medi_1_sat/globaltv-medi_1_sat.stream/gmswf.m3u8
+    #EXTINF:0,Maannews
+    http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
+    #EXTINF:0,Jordan
+    rtmp://64.251.14.168/jorlive/jrtv
+    #EXTINF:0,Rouge
+    http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
+    #EXTINF:0 ALMajd
+    http://108.178.40.250/live/10208.stream/playlist.m3u8
+    #EXTINF:0,Baghdad
+    http://streamer1.hamuraabi.com:1935/baghdad/live/playlist.m3u8
+    #EXTINF:0,SAFA
+    http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b632768.m3u8
+    #EXTINF:0,AL garbia
+    http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8
+    #EXTINF:0,AL Sharqiya
+    rtmp://ns8.indexforce.com/alsharqiyalive/mystream
+    #EXTINF:0,Hawacom
+    http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+    #EXTINF:0,ALJAZZERA Mubasher Masr
+    http://hd1.lsops.net/live/smil:aljamisr_ar_hls.smil/playlist.m3u8
+    #EXTINF:0,CCTV Arabic
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_264.m3u8
+    #EXTINF:0,CCTV Arabic
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_528.m3u8
+    #EXTINF:0,ALJazeera
+    http://hd3.lsops.net/live/aljazeer_ar_hls.smil/playlist.m3u8
+    #EXTINF:0,Aljazeera
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
+    #EXTINF:0,MED livestation
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_528.m3u8
+    #EXTINF:0,Aljazeera
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
+    #EXTINF:0,Aljazeera
+    rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_low
+    #EXTINF:0,AKJAZEERA
+    rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_med
+    #EXTINF:0,ALJAZEERA
+    rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
+    #EXTINF:0,ALJAZERRA En
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
+    #EXTINF:0,ALJAZERRA En
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+    #EXTINF:0,ALJAZERRA En
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
+    #EXTINF:0,ALJAZERRA US
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_264.m3u8
+    #EXTINF:0,ALJAZZERA US
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_528.m3u8
+    #EXTINF:0,ALJAZZERA US
+    http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
+    #EXTINF:0,BBC Arabic
+    http://hd7.lsops.net/live/bbcarab_ar_hls.smil/playlist.m3u8
+    #EXTINF:0,FRANCE 24 Arabic
+    http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
+    #EXTINF:0,FRANCE 24 English
+    http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8
+    #EXTINF:0,LBC
+    rtmp://$OPT:rtmp-raw=rtmp://livestreaming.itworkscdn.net/lbclive playpath=lbc_1  swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf  pageUrl=http://www.lbcgroup.tv/watch-lbci-live
+    #EXTINF:0,MTV
+    rtmp://livestreaming1.itworkscdn.net/mtvlive  playpath=murrtelevision_160p  swfUrl=http://mtv.com.lb/Player/400/jwplayer.flash.swf  pageUrl=http://mtv.com.lb/Player/600/400
+    #EXTINF:0,Alasr
+    http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
+    #EXTINF:0,SUDAN TV
+    http://ukk.live.net.sa:1935/live/africatv3/playlist.m3u8
+    #EXTINF:0,SUDAN TV
+    http://ukk.live.net.sa:1935/live/africatv/playlist.m3u8
+    #EXTINF:0,FATAFIT
+    http://212.179.77.42/live/livestream3/gmswf.m3u8
+    #EXTINF:0,BAHRIN
+    http://155.obj.netromedia.net/alayam/alayam/playlist.m3u8
+    #EXTINF:0,QURAN TV ksa
+    http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
+    #EXTINF:0,MELODY Drama
+    rtmp://38.96.148.206/Melody/MDramaWeb
+    #EXTINF:0,MELODY DRAMA
+    http://38.96.148.24//MelodyDrama/MDrama_576p/playlist.m3u8
+    #EXTINF:0,MELODY Classic
+    http://38.96.148.24//MelodyClassic/MClassic_576p/playlist.m3u8
+    #EXTINF:0,MELODY Aflem
+    http://38.96.148.24//MelodyAflam/MAflam_576p/playlist.m3u8
+    #EXTINF:0,Echorouk Tv
+    http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
+    #EXTINF:-1 , TRT Arabic |
+    http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+    #EXTINF:0, art_aflam1
+    http://yoolive.com/hls/art_aflam1.m3u8
+    #EXTINF:0, art_aflam2
+    http://yoolive.com/hls/art_aflam2.m3u8
+    #EXTINF:0, cine_majestic
+    http://yoolive.com/hls/cine_majestic.m3u8
+    #EXTINF:0, moga_comedy
+    http://yoolive.com/hls/moga_comedy.m3u8
+    #EXTINF:0,noon
+    http://yoolive.com/hls/noon.m3u8
+    #EXTINF:0, wanasah
+    http://yoolive.com/hls/wanasah.m3u8
+    #EXTINF:0, _abu_drama
+    http://yoolive.com/hls/_abu_drama.m3u8
+    #EXTINF:0, cairo_cinema
+    http://yoolive.com/hls/cairo_cinema.m3u8
+    #EXTINF:0, zee_aflam
+    http://yoolive.com/hls/zee_aflam.m3u8
+    #EXTINF:0, tamazight
+    http://yoolive.com/hls/tamazight.m3u8
+    #EXTINF:0, maghribiya
+    http://yoolive.com/hls/maghribiya.m3u8
+    #EXTINF:0, riyadiya
+    http://yoolive.com/hls/riyadiya.m3u8
+    #EXTINF:0, 2m
+    http://yoolive.com/hls/2m.m3u8
+    #EXTINF:0, sadisa
+    http://yoolive.com/hls/sadisa.m3u8
+    #EXTINF:0, panorama_drama2
+    http://yoolive.com/hls/panorama_drama2.m3u8
+    #EXTINF:0, otv_lebanon
+    http://yoolive.com/hls/otv_lebanon.m3u8
+    #EXTINF:0, star_cinema
+    http://yoolive.com/hls/star_cinema.m3u8
+    #EXTINF:0, majd
+    http://yoolive.com/hls/majd.m3u8
+    #EXTINF:0, star_cinema2
+    http://yoolive.com/hls/star_cinema2.m3u8
+    #EXTINF:0, nahar
+    http://yoolive.com/hls/nahar.m3u8
+    #EXTINF:0, zee_alwan
+    http://yoolive.com/hls/zee_alwan.m3u8
+    #EXTINF:0, algerie
+    http://yoolive.com/hls/algerie.m3u8
+    #EXTINF:0, rtm
+    http://yoolive.com/hls/rtm.m3u8
+    #EXTINF:0, cbc_extra
+    http://yoolive.com/hls/cbc_extra.m3u8
+    #EXTINF:0, a3
+    http://yoolive.com/hls/a3.m3u8
+    #EXTINF:0, jadeed
+    http://yoolive.com/hls/jadeed.m3u8
+    #EXTINF:0, jazayriya
+    http://yoolive.com/hls/jazayriya.m3u8
+    #EXTINF:0, jsc_kids
+    http://yoolive.com/hls/jsc_kids.m3u8
+    #EXTINF:0, baraem
+    http://yoolive.com/hls/baraem.m3u8
+    #EXTINF:0, taha
+    http://yoolive.com/hls/taha.m3u8
+    #EXTINF:0, karameesh
+    http://yoolive.com/hls/karameesh.m3u8
+    #EXTINF:0, ajyal
+    http://yoolive.com/hls/ajyal.m3u8
+    #EXTINF:0, lbc
+    http://yoolive.com/hls/lbc.m3u8
+    #EXTINF:0, mayadeen
+    http://yoolive.com/hls/mayadeen.m3u8
+    #EXTINF:0, ontv_live
+    http://yoolive.com/hls/ontv_live.m3u8
+    #EXTINF:0, rudaw
+    http://yoolive.com/hls/rudaw.m3u8
+    #EXTINF:0, masirah
+    http://yoolive.com/hls/masirah.m3u8
+    #EXTINF:0, nessma
+    http://yoolive.com/hls/nessma.m3u8
+    #EXTINF:0, hanibal
+    http://yoolive.com/hls/hanibal.m3u8
+    #EXTINF:0, janoubia
+    http://yoolive.com/hls/janoubia.m3u8
+    #EXTINF:0, tunisia_1
+    http://yoolive.com/hls/tunisia_1.m3u8
+    #EXTINF:0, melody_classic
+    http://yoolive.com/hls/melody_classic.m3u8
+    #EXTINF:0, cbc
+    http://yoolive.com/hls/cbc.m3u8
+    #EXTINF:0, cbc_drama
+    http://yoolive.com/hls/cbc_drama.m3u8
+    #EXTINF:0, cartoon_network
+    http://yoolive.com/hls/cartoon_network.m3u8
+    #EXTINF:0, fatafeat
+    http://yoolive.com/hls/fatafeat.m3u8
+    #EXTINF:0, fox_movies
+    http://yoolive.com/hls/fox_movies.m3u8
+    #EXTINF:0, fox
+    http://yoolive.com/hls/fox.m3u8
+    #EXTINF:0, mbc_1
+    http://yoolive.com/hls/mbc_1.m3u8
+    #EXTINF:0, mbc_2
+    http://yoolive.com/hls/mbc_2.m3u8
+    #EXTINF:0, mbc_3
+    http://yoolive.com/hls/mbc_3.m3u8
+    #EXTINF:0, mbc_4
+    http://yoolive.com/hls/mbc_4.m3u8
+    #EXTINF:0, mbc_action
+    http://yoolive.com/hls/mbc_action.m3u8
+    #EXTINF:0, mbc_max
+    http://yoolive.com/hls/mbc_max.m3u8
+    #EXTINF:0, mbc_drama
+    http://yoolive.com/hls/mbc_drama.m3u8
+    #EXTINF:0, mbc_bollywood
+    http://yoolive.com/hls/mbc_bollywood.m3u8
+    #EXTINF:0, rotana_cinema
+    http://yoolive.com/hls/rotana_cinema.m3u8
+    #EXTINF:0, rotana_masriya
+    http://yoolive.com/hls/rotana_masriya.m3u8
+    #EXTINF:0, rotana_classic
+    http://yoolive.com/hls/rotana_classic.m3u8
+    #EXTINF:0, rotana_clip
+    http://yoolive.com/hls/rotana_clip.m3u8
+    #EXTINF:0, rotana_music
+    http://yoolive.com/hls/rotana_music.m3u8
+    #EXTINF:0, rotana_khaliji
+    http://yoolive.com/hls/rotana_khaliji.m3u8
+    #EXTINF:0, dubai_one
+    http://yoolive.com/hls/dubai_one.m3u8
+    #EXTINF:0, national

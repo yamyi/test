@@ -1,5 +1,23 @@
 ﻿
     #EXTM3U
+#EXTINF:-1, 2M
+http://globalboxrtmp.tulix.tv:1935/2mmonde/globaltv-2mmonde.stream/chunklist_w1603616107.m3u8
+#EXTINF:-1,2M
+rtmp://162.212.176.107:1935/2mmonde/globaltv-2mmonde.stream
+#EXTINF:-1,al_maghribia
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream 
+#EXTINF:-1,al_aoula_maroc
+rtmp://162.212.176.107/al_aoula_maroc//globaltv-al_aoula_maroc.stream 
+#EXTINF:-1,al_maghribia 4
+rtmp://162.212.176.107:1935/arrabia/globaltv-arrabia.stream 
+#EXTINF:-1,al_maghribia 5
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream
+#EXTINF:-1,medi_1_sat
+rtmpt://162.212.176.107:1935/medi_1_sat?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-medi_1_sat.stream 
+#EXTINF:-1,Assadissa
+rtmpt://162.212.176.107:1935/assadissa?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-assadissa.stream 
+#EXTINF:-1,Alriadia_sport
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8 
     #EXTINF:-1,abu_dhabi_drama
     rtmp://162.212.176.107:1935/abu_dhabi_drama/globaltv-abu_dhabi_drama.stream
     #EXTINF:-1,abu_dhabi_drama m3u8

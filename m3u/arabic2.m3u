@@ -1,23 +1,22 @@
 #EXTM3U
-#EXTINF:-1,[COLOR yellow]by tutorial-iptv-xbmc.blogspot.com[/COLOR]
-#EXTINF:-1,AR Al Oula TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/97.ts
-#EXTINF:-1,AR 2M TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/98.ts
-#EXTINF:-1,AR Arriadia TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/99.ts
-#EXTINF:-1,AR Arrabia TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/100.ts
-#EXTINF:-1,AR Almaghribia TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/101.ts
-#EXTINF:-1,AR Assadissa TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/102.ts
-#EXTINF:-1,AR Tamazight TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/103.ts
-#EXTINF:-1,AR Aflam TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/105.ts
-#EXTINF:-1,AR Medi 1 Sat TV
-http://188.165.247.30:8000/live/amz_44/nqashalhob/104.ts
+#EXTINF:-1, 2M
+http://globalboxrtmp.tulix.tv:1935/2mmonde/globaltv-2mmonde.stream/chunklist_w1603616107.m3u8
+#EXTINF:-1,2M
+rtmp://162.212.176.107:1935/2mmonde/globaltv-2mmonde.stream
+#EXTINF:-1,al_maghribia
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream 
+#EXTINF:-1,al_aoula_maroc
+rtmp://162.212.176.107/al_aoula_maroc//globaltv-al_aoula_maroc.stream 
+#EXTINF:-1,al_maghribia 4
+rtmp://162.212.176.107:1935/arrabia/globaltv-arrabia.stream 
+#EXTINF:-1,al_maghribia 5
+rtmp://162.212.176.107:1935/al_maghribia/globaltv-al_maghribia.stream
+#EXTINF:-1,medi_1_sat
+rtmpt://162.212.176.107:1935/medi_1_sat?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-medi_1_sat.stream 
+#EXTINF:-1,Assadissa
+rtmpt://162.212.176.107:1935/assadissa?v=a2V5bGl2ZTgzLTQ1LTEwMC00MjIwMTQtMTItMDMtMTYtMzUtMzM=/globaltv-assadissa.stream 
+#EXTINF:-1,Alriadia_sport
+http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8 
 #EXTINF:-1,AR Zee Living
 http://188.165.247.30:8000/live/amz_44/nqashalhob/145.ts
 #EXTINF:-1,AR Zee Alwan

@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,Korea pink TV
+rtmp://111.118.21.75/ptv2/phd62
+#EXTINF:0,Korea Ting TV
+rtmp://111.118.21.75/ptv2/phd64
+#EXTINF:-1,Korea X
+http://lm02.everyon.tv:1935/ptv2/phd62/graficantul.m3u8
+#EXTINF:-1,X3
+http://77.56.72.144:8001/1:0:1:411:51a4:16e:a00000:0:0:0:
+#EXTINF:-1,Frenchlover
+http://80.87.146.133:1111/udp/230.3.4.150:5678
+#EXTINF:-1,BrazersTV
+http://80.87.146.133:1111/udp/230.3.4.121:5678
+#EXTINF:-1,ero1 box
+http://stream1.zoovision.com//livespi/erox/playlist.m3u8
+#EXTINF:-1,ero2 box
+http://stream1.zoovision.com//livespi/eroxx/playlist.m3u8
+#EXTINF:0,Korea LIVE Ting TV
+rtmp://111.118.21.75/ptv2/phd64
+#EXTINF:0,Korea Midnight-HD- +18 Adult
+rtmp://lm02.everyon.tv/ptv2/phd766
+#EXTINF:0,Korea Okadai
+rtmp://111.118.21.77:1935/ptv3/phd61
+#EXTINF:0,Korea P.BoyTV-HD
+rtmp://111.118.21.77:1935/ptv3/phd497
+#EXTINF:-1,Korea X1
+http://lm02.everyon.tv:1935/ptv2/phd63/graficantul.m3u8
+#EXTINF:-1,Girls TV
+http://lm01.everyon.tv/ptv//phd501/graficantul.m3u8
+#EXTINF:-1,But Go
+http://lm01.everyon.tv/ptv/phd772/graficantul.m3u8
+#EXTINF:-1,The O (censored)
+http://lm03.everyon.tv:1935/ptv3/phd771/graficantul.m3u8
+#EXTINF:-1,Playboy
+http://95.188.116.4:1234/udp/233.7.70.115:5000
+#EXTINF: -1, Russian Night
+http://80.87.146.133:1111/udp/230.3.4.110:5678
+#EXTINF:0,Korea Delight Empire ADULT
+rtsp://lm02.everyon.tv:1935/ptv2/phd63
+#EXTINF:-1,Korea X2
+http://lm02.everyon.tv:1935/ptv2/phd62/graficantul.m3u8
+#EXTINF:-1,Korea X3
+http://lm02.everyon.tv:1935/ptv2/phd59/graficantul.m3u8
+#EXTINF:-1,Korea Midnight HD
+http://lm02.everyon.tv:1935/ptv2/phd766/graficantul.m3u8
+#EXTINF:-1,Korea X4 (censored)
+http://lm03.everyon.tv:1935/ptv3/phd499/graficantul.m3u8
+#EXTINF:-1,Playboy Korea
+http://lm03.everyon.tv:1935/ptv3/phd497/graficantul.m3u8
+#EXTINF:-1,Korea X5
+http://lm03.everyon.tv/ptv3//phd769/graficantul.m3u8
+#EXTINF:-1,VISIT-X.tv
+rtmp://194.116.150.47/live/visitx.stream2
+#EXTINF:0,Hallo tv 1 (Austria)
+rtsp://83.169.58.38:1935/live/HalloTV1
+#EXTINF:0,Hallo tv 2 (Austria)
+rtsp://83.169.58.38:1935/live/HalloTV2
+#EXTINF:0,Korea ink TV ADULT
+rtsp://lm02.everyon.tv:1935/ptv2/phd62
+#EXTINF:0,Korea J Hot Girl(cencored)
+rtmp://111.118.21.75/ptv2/phd59

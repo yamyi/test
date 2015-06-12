@@ -1,0 +1,78 @@
+EXTINF:-1,CS Sex +18 ADULT
+mmsh://tv.webmisto.cz:7000
+#EXTINF:-1,DLDVS 1
+http://208.122.3.2:9000
+#EXTINF:-1,DLDVS 2
+http://208.122.3.2:8700
+#EXTINF:-1,Korea m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8
+#EXTINF:-1,Korea m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+#EXTINF:-1,Korea rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,Korea rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,Korea rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,Korea rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,Korea rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,RUS PRIVATE
+http://185.38.12.20:8088/private/
+#EXTINF:-1,Russian night
+http://185.38.12.20:8088/rusnoch/
+#EXTINF:-1,ASIA 8081
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA 8082
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA 8083
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA 8084
+http://59.120.43.181:8084
+#EXTINF:-1,ASIA 8085
+http://59.120.43.181:8085
+#EXTINF:-1,ASIA 8086
+http://59.120.43.181:8086
+#EXTINF:-1,ASIA rtmp ttv10
+rtmp://149.3.141.210:1935/tv/ttv10
+#EXTINF:-1,ASIA rtmp ttv11
+rtmp://149.3.141.210:1935/tv/ttv11
+#EXTINF:-1,ASIA rtmp ttv12
+rtmp://149.3.141.210:1935/tv/ttv12
+#EXTINF:-1,ASIA rtmp ttv13
+rtmp://149.3.141.210:1935/tv/ttv13
+#EXTINF:-1,ASIA rtmp ttv14
+rtmp://149.3.141.210:1935/tv/ttv14
+#EXTINF:-1,ASIA rtmp ttv15
+rtmp://149.3.141.210:1935/tv/ttv15
+#EXTINF:-1,ASIA rtmp ttv16
+rtmp://149.3.141.210:1935/tv/ttv16v
+#EXTINF:-1,Hustler HD
+http://185.38.12.20:8088/hustler_hd/
+#EXTINF:-1,New4
+http://edge2.everyon.tv:1935/etv2sb/phd64/huraivza.m3u8
+#EXTINF:-1,HD Porn TV
+http://188.165.220.116:8081/live/20/playlist.m3u8
+#EXTINF:-1,Canal_01
+http://199.195.195.108:32001
+#EXTINF:-1,Canal_02
+http://199.195.195.108:32002
+#EXTINF:-1,Canal_03
+http://199.195.195.108:32003
+#EXTINF:-1,Canal_04
+http://199.195.195.108:32004
+#EXTINF:-1,Canal_05
+http://199.195.195.108:32005
+#EXTINF:-1,Canal_06
+http://199.195.195.108:32006
+#EXTINF: -1,SUPER ONE HD
+http://31.223.238.10:8001/1:0:1:409:2:1:E0831B3:0:0:0:
+#EXTINF: -1,HDPORN.TV
+http://188.165.220.116:8081/live/22/playlist.m3u8 
